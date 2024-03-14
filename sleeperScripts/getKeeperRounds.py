@@ -46,36 +46,43 @@ for leagueIdx in range(numLeagues):
         userIdx = userIdx.split("\n")
     numTeams = len(rosters)
     teamRosters[leagueName[leagueIdx]] = {}
-    for teamIdx in range(numTeams):
-        ownerId = rosters[teamIdx]['owner_id']
-        idx = userIdx.index(ownerId)
-        ownerName = usersInfo[idx]['display_name']
-        teamRosters[leagueName[leagueIdx]][ownerName] = {}
-        rosterMsk = []
-        rosterMsk.append(rosters[teamIdx]["players"])
-        rosterMsk = rosterMsk[0]
-        numPlayers = len(rosterMsk)
-        lastNameMsk = []
-        firstNameMsk = []
-        positionMsk = []
-        keeperRndMsk = []
-        for playerIdx in range(numPlayers):
-            playerId = rosterMsk[playerIdx]
-            lastNameMsk.append(players[playerId]["last_name"])
-            firstNameMsk.append(players[playerId]["first_name"])
-            positionMsk.append(players[playerId]["position"])
-            try:
-                idx = draftPlayerIdx.index(playerId)
-                keeperRndMsk.append(draftPicks[idx]['round'] - 1)
-            except:
-                keeperRndMsk.append(16)
-
+    with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/keeperRounds.txt","w") as filePath:
+        filePath.write(f"{'owner,name,position,keeper round'}\n")
+        for teamIdx in range(numTeams):
+            ownerId = rosters[teamIdx]['owner_id']
+            idx = userIdx.index(ownerId)
+            ownerName = usersInfo[idx]['display_name']
+            teamRosters[leagueName[leagueIdx]][ownerName] = {}
+            rosterMsk = []
+            rosterMsk.append(rosters[teamIdx]["players"])
+            rosterMsk = rosterMsk[0]
+            numPlayers = len(rosterMsk)
+            lastName = []
+            firstName = []
+            position = []
+            keeperRnd = []
+            for playerIdx in range(numPlayers):
+                playerId = rosterMsk[playerIdx]
+                lastNameMsk = players[playerId]["last_name"]
+                firstNameMsk = players[playerId]["first_name"]
+                positionMsk = players[playerId]["position"]
+                lastName.append(lastNameMsk)
+                firstName.append(firstNameMsk)
+                position.append(positionMsk)                
+                try:
+                    idx = draftPlayerIdx.index(playerId)
+                    keeperRndMsk = draftPicks[idx]['round'] - 1
+                    keeperRnd.append(keeperRndMsk)
+                except:
+                    keeperRndMsk = 16
+                    keeperRnd.append(16)
+                filePath.write(f"{ownerName + ',' + firstNameMsk + ' ' + lastNameMsk + ',' + positionMsk + ',' + str(keeperRndMsk)}\n")
 
         teamRosters[leagueName[leagueIdx]][ownerName]['lastName'] = lastNameMsk
         teamRosters[leagueName[leagueIdx]][ownerName]['firstName'] = firstNameMsk
         teamRosters[leagueName[leagueIdx]][ownerName]['position'] = positionMsk
         teamRosters[leagueName[leagueIdx]][ownerName]['keeperRounds'] = keeperRndMsk
-        with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/keeperRounds.json","w") as filePath:
+    with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/keeperRounds.json","w") as filePath:
             json.dump(teamRosters, filePath)
 
 
