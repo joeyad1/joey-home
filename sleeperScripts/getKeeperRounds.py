@@ -1,4 +1,17 @@
 import json
+import csv
+import os
+import math
+
+print("Importing ADP")
+cwd = os.getcwd()
+fileName = 'FantasyPros_2024_Draft_ALL_Rankings.csv'
+adpPath = cwd + '/' + fileName
+adpNames = [] 
+with open(adpPath, 'r') as csvfile:
+    csv_reader = csv.DictReader(csvfile, delimiter=',')
+    for row in csv_reader:
+        adpNames.append(row['PLAYER NAME'])
 
 print("Getting Roster")
 print("Loading Sleeper json files")
@@ -49,7 +62,7 @@ for leagueIdx in range(numLeagues):
     numTeams = len(rosters)
     teamRosters[leagueName[leagueIdx]] = {}
     with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/keeperRounds.txt","w") as filePath:
-        filePath.write(f"{'owner,name,position,keeper round'}\n")
+        filePath.write(f"{'owner,name,position,keeper round,adp,value'}\n")
         for teamIdx in range(numTeams):
             ownerId = rosters[teamIdx]['owner_id']
             idx = userIdx.index(ownerId)
@@ -59,31 +72,33 @@ for leagueIdx in range(numLeagues):
             rosterMsk.append(rosters[teamIdx]["players"])
             rosterMsk = rosterMsk[0]
             numPlayers = len(rosterMsk)
-            lastName = []
-            firstName = []
-            position = []
-            keeperRnd = []
             for playerIdx in range(numPlayers):
                 playerId = rosterMsk[playerIdx]
                 lastNameMsk = players[playerId]["last_name"]
                 firstNameMsk = players[playerId]["first_name"]
-                positionMsk = players[playerId]["position"]
-                lastName.append(lastNameMsk)
-                firstName.append(firstNameMsk)
-                position.append(positionMsk)                
+                positionMsk = players[playerId]["position"]               
                 try:
                     idx = draftPlayerIdx.index(playerId)
                     keeperRndMsk = draftPicks[idx]['round'] - 1
-                    keeperRnd.append(keeperRndMsk)
                 except:
                     keeperRndMsk = 16
-                    keeperRnd.append(16)
-                filePath.write(f"{ownerName + ',' + firstNameMsk + ' ' + lastNameMsk + ',' + positionMsk + ',' + str(keeperRndMsk)}\n")
-
-        teamRosters[leagueName[leagueIdx]][ownerName]['lastName'] = lastNameMsk
-        teamRosters[leagueName[leagueIdx]][ownerName]['firstName'] = firstNameMsk
-        teamRosters[leagueName[leagueIdx]][ownerName]['position'] = positionMsk
-        teamRosters[leagueName[leagueIdx]][ownerName]['keeperRounds'] = keeperRndMsk
+                try:
+                    idx = adpNames.index(firstNameMsk + ' ' + lastNameMsk)
+                    adpMsk = (math.ceil((idx+1)/numTeams))
+                except:
+                    try:
+                        idx = adpNames.index(firstNameMsk + ' ' + lastNameMsk + ' Jr.')
+                        adpMsk = (math.ceil((idx+1)/numTeams))
+                    except:
+                        adpMsk = 17
+                valueMsk = keeperRndMsk - adpMsk
+                filePath.write(f"{ownerName + ',' + firstNameMsk + ' ' + lastNameMsk + ',' + positionMsk + ',' + str(keeperRndMsk) + ',' + str(adpMsk) + ',' + str(valueMsk)}\n")
+                teamRosters[leagueName[leagueIdx]][ownerName]['lastName'] = lastNameMsk
+                teamRosters[leagueName[leagueIdx]][ownerName]['firstName'] = firstNameMsk
+                teamRosters[leagueName[leagueIdx]][ownerName]['position'] = positionMsk
+                teamRosters[leagueName[leagueIdx]][ownerName]['keeperRounds'] = keeperRndMsk
+                teamRosters[leagueName[leagueIdx]][ownerName]['adp'] = adpMsk
+                teamRosters[leagueName[leagueIdx]][ownerName]['value'] = valueMsk
     with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/keeperRounds.json","w") as filePath:
             json.dump(teamRosters, filePath)
 
