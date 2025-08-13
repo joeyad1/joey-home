@@ -49,11 +49,10 @@ def getLeagueAllYears(leagueInfo):
 
 
 print("Calling SleeperAPI")
-#user ID for joeyad 1/14/24
-#user_id = "joeyad"
-user_id = "439870479407247360"
+sleeperUserIdFile = open("/Users/joead/Documents/FantasyFootball/sleeperUserId.txt")
+user_id = sleeperUserIdFile.read()
 sleeperURL = "https://api.sleeper.app/v1/"
-sleeperDictFP = "/Users/joey/Documents/github/joey-home/APIcalls/sleeperDicts/"
+sleeperDictFP = "/Users/joead/Documents/joey-home/APIcalls/sleeperDicts/"
 if not os.path.isdir(sleeperDictFP):
     os.mkdir(sleeperDictFP)
 

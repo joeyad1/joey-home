@@ -2,9 +2,11 @@ import json
 
 print("Getting Roster")
 print("Loading Sleeper json files")
-sleeperDictFP = "/Users/joey/Documents/github/joey-home/APIcalls/sleeperDicts/"
-userName = "joeyad"
-userID = "439870479407247360"
+sleeperDictFP = "/Users/joead/Documents/joey-home/APIcalls/sleeperDicts/"
+sleeperUserNameFile = open("/Users/joead/Documents/FantasyFootball/sleeperUserName.txt")
+userName = sleeperUserNameFile.read()
+sleeperUserIdFile = open("/Users/joead/Documents/FantasyFootball/sleeperUserId.txt")
+user_id = sleeperUserIdFile.read()
 with open(sleeperDictFP + userName + "/userInfo.json") as filePath:
           userInfo = json.load(filePath)
 with open(sleeperDictFP + userName + "/allLeagues.json") as filePath:
@@ -30,10 +32,10 @@ for leagueIdx in range(numLeagues):
         continue
     with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/draftInfo.json") as filePath:
         draftInfo = json.load(filePath)
-    with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/draftPicks2023.json") as filePath:
+    with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/draftPicks2024.json") as filePath:
          draftPicks = json.load(filePath)
     #draft.append(draftPicks[0])    
-    with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/draftPlayerIdx2023.txt") as filePath:
+    with open(sleeperDictFP + userName + "/" + leagueName[leagueIdx] + "/draftPlayerIdx2024.txt") as filePath:
         draftPlayerIdx = filePath.read()
         draftPlayerIdx = draftPlayerIdx.split("\n")
     #print(draftPlayerIdx)
