@@ -3,7 +3,7 @@ import csv
 import os
 
 cwd = os.getcwd()
-fileName = 'FantasyPros_2024_Draft_ALL_Rankings.csv'
+fileName = 'FantasyPros_2025_Draft_ALL_Rankings.csv'
 adpPath = cwd + '/' + fileName
 adpNames = [] 
 
