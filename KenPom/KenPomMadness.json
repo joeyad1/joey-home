@@ -1,0 +1,94 @@
+[
+  {
+    "Milestone": "Sweet Sixteen",
+    "TeamsCount": 37,
+    "Teams": [
+      "Alabama 4",
+      "Arizona 1",
+      "Arkansas 4",
+      "BYU 6",
+      "Connecticut 2",
+      "Duke 1",
+      "Florida 1",
+      "Georgia 8",
+      "Gonzaga 3",
+      "Houston 2",
+      "Illinois 3",
+      "Iowa 9",
+      "Iowa St. 2",
+      "Kansas 4",
+      "Kentucky 7",
+      "Louisville 6",
+      "Miami FL 7",
+      "Michigan 1",
+      "Michigan St. 3",
+      "Missouri 10",
+      "Nebraska 4",
+      "North Carolina 6",
+      "Ohio St. 8",
+      "Purdue 2",
+      "Saint Louis 9",
+      "Saint Mary's 7",
+      "St. John's 5",
+      "Tennessee 6",
+      "Texas A&M 10",
+      "Texas Tech 5",
+      "UCLA 7",
+      "Utah St. 9",
+      "VCU 11",
+      "Vanderbilt 5",
+      "Villanova 8",
+      "Virginia 3",
+      "Wisconsin 5",
+      "Santa Clara 10*",
+      "South Florida 11*"
+    ]
+  },
+  {
+    "Milestone": "Elite Eight",
+    "TeamsCount": 11,
+    "Teams": [
+      "Arizona 1",
+      "Duke 1",
+      "Florida 1",
+      "Houston 2",
+      "Illinois 3",
+      "Iowa St. 2",
+      "Louisville 6",
+      "Michigan 1",
+      "Michigan St. 3",
+      "Texas Tech 5",
+      "Vanderbilt 5",
+      "Purdue 2*",
+      "Gonzaga 3*",
+      "Connecticut 2*",
+      "Virginia 3*"
+    ]
+  },
+  {
+    "Milestone": "Final Four",
+    "TeamsCount": 6,
+    "Teams": [
+      "Arizona 1",
+      "Duke 1",
+      "Florida 1",
+      "Houston 2",
+      "Louisville 6",
+      "Michigan 1",
+      "Iowa St. 2*",
+      "Illinois 3*",
+      "Michigan St. 3*"
+    ]
+  },
+  {
+    "Milestone": "National Champion",
+    "TeamsCount": 4,
+    "Teams": [
+      "Arizona 1",
+      "Duke 1",
+      "Florida 1",
+      "Michigan 1",
+      "Houston 2*"
+    ]
+  }
+]

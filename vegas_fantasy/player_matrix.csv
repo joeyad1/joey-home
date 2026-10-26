@@ -1,6 +1,6 @@
 Player Name,Position,Receiving Yards,Receiving TDs,Rushing Yards,Rushing TDs,Passing Yards,Passing TDs,Yards Per Rec,Rec,Fantasy Points
 Josh Allen,QB,,,500.5,10.5,3775.5,27.5,,0.0,374.07000000000005
-Lamar Jackson,QB,,,750.5,3.5,3475.5,28.5,,0.0,349.07
+Lamar Jackson,QB,,,750.5,4.5,3475.5,28.5,,0.0,355.07
 Jalen Hurts,QB,,,600.5,12.5,3175.5,19.5,,0.0,340.07
 Jayden Daniels,QB,,,675.5,5.5,3425.5,24.5,,0.0,335.57
 Joe Burrow,QB,,,,,4225.5,33.5,,0.0,303.02
@@ -10,12 +10,13 @@ Baker Mayfield,QB,,,,,3825.5,30.5,,0.0,275.02
 Patrick Mahomes,QB,,,,,4000.5,27.5,,0.0,270.02
 Jared Goff,QB,,,,,3875.5,28.5,,0.0,269.02
 Justin Fields,QB,,,650.5,6.5,2600.5,14.5,,0.0,266.07
+Drake Maye,QB,,,500.5,,3275.5,20.5,,0.0,263.07000000000005
 Dak Prescott,QB,,,,,3875.5,26.5,,0.0,261.02
 Brock Purdy,QB,,,,,3850.5,24.5,,0.0,252.02
+Bijan Robinson,RB,375.5,,1200.5,10.5,,,7.1,52.887323943661976,247.043661971831
 Saquon Barkley,RB,275.5,,1400.5,10.5,,,8.4,32.797619047619044,246.99880952380954
 Ja'Marr Chase,WR,1325.5,10.5,,,,,13.4,98.91791044776119,245.0089552238806
 Jordan Love,QB,,,,,3550.5,25.5,,0.0,244.02
-Bijan Robinson,RB,350.5,,1200.5,10.5,,,7.1,49.36619718309859,242.78309859154933
 J.J. McCarthy,QB,,,,,3575.5,24.5,,0.0,241.02
 Trevor Lawrence,QB,,,,,3750.5,22.5,,0.0,240.02
 Bo Nix,QB,,,,,3500.5,24.5,,0.0,238.02
@@ -24,14 +25,15 @@ Justin Herbert,QB,,,,,3650.5,22.5,,0.0,236.02
 Jahmyr Gibbs,RB,425.5,,1075.5,10.5,,,9.9,42.97979797979798,234.58989898989898
 Tua Tagovailoa,QB,,,,,3425.5,22.5,,0.0,227.02
 Geno Smith,QB,,,,,3600.5,20.5,,0.0,226.02
+Justin Jefferson,WR,1250.5,9.5,,,,,14.9,83.9261744966443,224.01308724832217
 Aaron Rodgers,QB,,,,,3200.5,22.5,,0.0,218.02
 Sam Darnold,QB,,,,,3350.5,20.5,,0.0,216.02
-Drake Maye,QB,,,,,3275.5,20.5,,0.0,213.02
+Derrick Henry,RB,,,1325.5,13.5,,,,0.0,213.55
 CeeDee Lamb,WR,1175.5,7.5,,,,,11.8,99.61864406779661,212.3593220338983
 Malik Nabers,WR,1150.5,7.5,,,,,11,104.5909090909091,212.34545454545457
+Amon-Ra St. Brown,WR,1100.5,8.5,,,,,11,100.04545454545455,211.0727272727273
 Michael Penix Jr.,QB,,,,,3400.5,18.5,,0.0,210.02
-Derrick Henry,RB,,,1325.5,12.5,,,,0.0,207.55
-Amon-Ra St. Brown,WR,1075.5,8.5,,,,,11,97.77272727272727,207.43636363636364
+De'Von Achane,RB,450.5,,875.5,7.5,,,7.6,59.276315789473685,207.23815789473684
 Christian McCaffrey,RB,425.5,,950.5,7.5,,,9.7,43.8659793814433,204.53298969072165
 Bryce Young,QB,,,,,3200.5,18.5,,0.0,202.02
 Cameron Ward,QB,,,,,3200.5,18.5,,0.0,202.02
@@ -40,15 +42,19 @@ Puka Nacua,WR,1200.5,5.5,,,,,12.5,96.04,201.07000000000002
 Brian Thomas Jr.,WR,1150.5,7.5,,,,,14.7,78.26530612244899,199.1826530612245
 Nico Collins,WR,1150.5,6.5,,,,,14.8,77.73648648648648,192.91824324324324
 A.J. Brown,WR,1125.5,7.5,,,,,16.1,69.90683229813664,192.50341614906833
+Chase Brown,RB,350.5,,900.5,6.5,,,6.7,52.3134328358209,190.25671641791047
 D.J. Moore,WR,975.5,6.5,,,,,9.9,98.53535353535354,185.81767676767677
 Tyreek Hill,WR,975.5,7.5,,,,,11.8,82.66949152542372,183.88474576271187
 Brock Bowers,TE,1025.5,5.5,,,,,10.7,95.84112149532712,183.47056074766357
 Tee Higgins,WR,975.5,7.5,,,,,12.5,78.04,181.57000000000002
 Ladd McConkey,WR,1050.5,6.5,,,,,14,75.03571428571429,181.56785714285715
+Breece Hall,RB,350.5,,875.5,5.5,,,8.5,41.23529411764706,176.21764705882356
 Mike Evans,WR,950.5,7.5,,,,,13.6,69.88970588235294,174.99485294117648
 Davante Adams,WR,925.5,7.5,,,,,12.5,74.04,174.57000000000002
 Jonathan Taylor,RB,,,1175.5,9.5,,,,0.0,174.55
 Jaxon Smith-Njigba,WR,975.5,5.5,,,,,11.3,86.32743362831857,173.71371681415928
+Alvin Kamara,RB,425.5,,775.5,4.5,,,8,53.1875,173.69375000000002
+Terry McLaurin,WR,980.5,6.5,,,,,13.4,73.17164179104478,173.6358208955224
 Marvin Harrison Jr.,WR,975.5,6.5,,,,,14.3,68.21678321678321,170.6583916083916
 Josh Jacobs,RB,,,1050.5,10.5,,,9.5,0.0,168.05
 Xavier Worthy,WR,875.5,6.5,,,,,10.8,81.06481481481481,167.0824074074074
@@ -61,48 +67,92 @@ Trey McBride,TE,900.5,4.5,,,,,10.3,87.42718446601941,160.76359223300972
 George Kittle,TE,900.5,6.5,,,,,14.2,63.41549295774648,160.75774647887326
 Calvin Ridley,WR,925.5,5.5,,,,,15.9,58.20754716981132,154.65377358490568
 DeVonta Smith,WR,850.5,5.5,,,,,12.3,69.14634146341463,152.62317073170732
-Ashton Jeanty,RB,,,1075.5,7.5,,,,0.0,152.55
 George Pickens,WR,900.5,5.5,,,,,15.3,58.8562091503268,152.4781045751634
+Ashton Jeanty,RB,,,1050.5,7.5,,,,0.0,150.05
 Rome Odunze,WR,850.5,5.5,,,,,13.6,62.536764705882355,149.3183823529412
 Jameson Williams,WR,900.5,5.5,,,,,17.3,52.05202312138728,149.07601156069364
 Zay Flowers,WR,900.5,4.5,,,,,14.3,62.972027972027966,148.53601398601398
+Ricky Pearsall,WR,875.5,4.5,,,,,12.9,67.86821705426357,148.4841085271318
 Tetairoa McMillan,,825.5,4.5,,,,,,74.18913460567505,146.64456730283754
 James Cook,RB,,,950.5,8.5,,,8.1,0.0,146.05
 Bucky Irving,RB,,,1000.5,7.5,,,8.3,0.0,145.05
+Jakobi Meyers,WR,825.5,4.5,,,,,11.8,69.95762711864407,144.52881355932203
+Jerry Jeudy,WR,900.5,3.5,,,,,13.7,65.72992700729927,143.91496350364963
 Stefon Diggs,WR,750.5,4.5,,,,,10.6,70.80188679245283,137.45094339622642
+Chris Olave,WR,825.5,3.5,,,,,12.5,66.04,136.57000000000002
 Travis Hunter,WR,750.5,4.5,,,,,,67.44875290316065,135.77437645158034
 James Conner,RB,,,900.5,7.5,,,8.8,0.0,135.05
 Sam LaPorta,TE,675.5,6.5,,,,,12.1,55.82644628099174,134.46322314049587
 Travis Kelce,TE,675.5,4.5,,,,,8.5,79.47058823529412,134.28529411764706
 Chuba Hubbard,RB,,,950.5,6.5,,,4,0.0,134.05
-De'Von Achane,RB,,,875.5,7.5,,,7.6,0.0,132.55
 Cooper Kupp,WR,675.5,5.5,,,,,10.6,63.72641509433962,132.4132075471698
+David Njoku,TE,625.5,4.5,,,,,7.9,79.17721518987341,129.13860759493673
+Matthew Golden,,700.5,4.5,,,,,,62.9551651014844,128.52758255074218
+Emeka Egbuka,WR,650.5,5.5,,,,,,58.46157729980814,127.28078864990407
 Kenneth Walker III,RB,,,850.5,6.5,,,6.5,0.0,124.05000000000001
+Omarion Hampton,,,,850.5,6.5,,,,0.0,124.05000000000001
 David Montgomery,RB,,,725.5,8.5,,,9.5,0.0,123.55
 Tony Pollard,RB,,,900.5,5.5,,,5.8,0.0,123.05000000000001
-Jerry Jeudy,WR,900.5,,,,,,13.7,65.72992700729927,122.91496350364964
-Breece Hall,RB,,,875.5,5.5,,,8.5,0.0,120.55000000000001
-Chase Brown,RB,,,875.5,5.5,,,6.7,0.0,120.55000000000001
-Jakobi Meyers,WR,825.5,,,,,,11.8,69.95762711864407,117.52881355932205
+Keon Coleman,WR,750.5,4.5,,,,,19.2,39.08854166666667,121.59427083333333
+Deebo Samuel,WR,700.5,3.5,,,,,13.1,53.47328244274809,117.78664122137404
+Rashid Shaheed,WR,725.5,3.5,,,,,17.5,41.457142857142856,114.27857142857142
 Mark Andrews,TE,575.5,5.5,,,,,12.2,47.17213114754099,114.13606557377051
 D'Andre Swift,RB,,,800.5,5.5,,,9.2,0.0,113.05000000000001
-Brian Robinson Jr.,RB,,,700.5,6.5,,,,0.0,109.05
-Alvin Kamara,RB,,,775.5,4.5,,,8,0.0,104.55000000000001
-Deebo Samuel,WR,700.5,,,,,,13.1,53.47328244274809,96.78664122137404
-Emeka Egbuka,WR,650.5,,,,,,,58.46157729980814,94.28078864990407
+Tyler Warren,,575.5,4.5,,,,,,51.72119559729375,110.41059779864689
+Michael Pittman Jr.,WR,750.5,,,,,,11.7,64.14529914529915,107.12264957264958
+Dalton Kincaid,TE,575.5,3.5,,,,,10.2,56.42156862745099,106.76078431372551
+Tucker Kraft,TE,625.5,3.5,,,,,14.1,44.361702127659576,105.7308510638298
+Kaleb Johnson,,,,725.5,5.5,,,,0.0,105.55
+Josh Downs,WR,725.5,,,,,,11.2,64.77678571428572,104.93839285714286
+T.J. Hockenson,TE,700.,,,,,,11.1,63.06306306306306,101.53153153153153
+Colston Loveland,,550.5,3.5,,,,,,49.47440169645562,100.78720084822783
+Isiah Pacheco,RB,,,725.5,4.5,,,,0.0,99.55
+Tyrone Tracy,,,,725.5,4.5,,,,0.0,99.55
+TreVeyon Henderson,RB,,,700.5,4.5,,,,0.0,97.05
+Rhamondre Stevenson,RB,,,625.5,5.5,,,5.1,0.0,95.55000000000001
+Evan Engram,TE,575.5,,,,,,7.8,73.78205128205128,94.44102564102565
+Jayden Higgins,,650.5,,,,,,,58.46157729980814,94.28078864990407
 Kyle Pitts,TE,525.5,3.5,,,,,12.8,41.0546875,94.07734375000001
-Aaron Jones,RB,,,725.5,3.5,,,8,0.0,93.55
+Darnell Mooney,WR,700.5,,,,,,15.5,45.193548387096776,92.64677419354838
+Rashod Bateman,WR,550.5,3.5,,,,,16.8,32.76785714285714,92.43392857142858
+Aaron Jones,RB,,,712.5,3.5,,,8,0.0,92.25
+Cade Otton,TE,475.5,3.5,,,,,10.2,46.617647058823536,91.85882352941178
+Cedric Tillman,WR,625.5,,,,,,11.7,53.46153846153847,89.28076923076924
+Jayden Reed,WR,675.5,,,,,,15.6,43.30128205128205,89.20064102564102
+Jordan Addison,WR,650.5,,,,,,13.9,46.798561151079134,88.44928057553956
 Jake Ferguson,TE,550.5,,,,,,8.4,65.53571428571428,87.81785714285715
-Dalton Kincaid,TE,575.5,,,,,,10.2,56.42156862745099,85.7607843137255
-Tucker Kraft,TE,625.5,,,,,,14.1,44.361702127659576,84.73085106382979
-Colston Loveland,,550.5,,,,,,,49.47440169645562,79.78720084822781
-Rashod Bateman,WR,550.5,,,,,,16.8,32.76785714285714,71.43392857142857
-TreVeyon Henderson,RB,,,700.5,,,,,0.0,70.05
+Hollywood Brown,,575.5,,,,,,10.1,56.98019801980198,86.040099009901
+Zach Charbonnet,RB,,,575.5,4.5,,,8.1,0.0,84.55000000000001
+Jonnu Smith,TE,550.5,,,,,,10,55.05,82.575
+Xavier Legette,WR,550.5,,,,,,10.1,54.504950495049506,82.30247524752475
+Dallas Goedert,TE,575.5,,,,,,11.8,48.771186440677965,81.93559322033899
+Christian Kirk,WR,600.5,,,,,,14,42.892857142857146,81.49642857142858
+Adam Thielen,WR,550.5,,,,,,12.8,43.0078125,76.55390625000001
+Marvin Mims,,525.5,,,,,,,47.22760779561749,76.16380389780875
+Cam Skattebo,,,,475.5,4.5,,,,0.0,74.55000000000001
+Chig Okonkwo,TE,475.5,,,,,,9.2,51.684782608695656,73.39239130434783
+Brenton Strange,TE,475.5,,,,,,10.3,46.165048543689316,70.63252427184466
+RJ Harvey,,,,700.5,,,,,0.0,70.05
+Chris Godwin,WR,475.5,,,,,,11.5,41.34782608695652,68.22391304347826
+Dalton Schultz,TE,450.5,,,,,,10,45.05,67.575
+Tank Bigsby,RB,,,675.5,,,,,0.0,67.55
+Darius Slayton,WR,500.5,,,,,,14.7,34.04761904761905,67.07380952380953
+Luther Burden,,450.5,,,,,,,40.487226093103104,65.29361304655156
+Tutu Atwell,WR,475.5,,,,,,13.4,35.48507462686567,65.29253731343283
+Jaylen Warren,RB,,,600.5,,,,8.2,0.0,60.050000000000004
+Jordan Mason,RB,,,600.5,,,,,0.0,60.050000000000004
+Mike Gesicki,TE,400.5,,,,,,10.2,39.26470588235294,59.682352941176475
+Trey Benson,RB,,,550.5,,,,,0.0,55.050000000000004
+Tyler Allgeier,RB,,,550.5,,,,,0.0,55.050000000000004
+Travis Etienne Jr.,RB,,,505.5,,,,6.5,0.0,50.550000000000004
+Javonte Williams,RB,,,500.5,,,,6.7,0.0,50.050000000000004
+Ray Davis,RB,,,450.5,,,,,0.0,45.050000000000004
+Rachaad White,RB,,,425.5,,,,7.7,0.0,42.550000000000004
+Casey Pachall,,,,,5.5,,,,0.0,33.0
 ,,,,,,,,,0.0,0.0
 A.J. Dillon,RB,,,,,,,,0.0,0.0
 A.T. Perry,WR,,,,,,,,0.0,0.0
 AJ Barner,TE,,,,,,,,0.0,0.0
-Adam Thielen,WR,,,,,,,12.8,0.0,0.0
 Adam Trautman,TE,,,,,,,,0.0,0.0
 Adonai Mitchell,WR,,,,,,,,0.0,0.0
 Adrian Martinez,QB,,,,,,,,0.0,0.0
@@ -152,17 +202,16 @@ Braxton Berrios,WR,,,,,,,,0.0,0.0
 Brayden Willis,TE,,,,,,,,0.0,0.0
 Brenden Bates,TE,,,,,,,,0.0,0.0
 Brenden Rice,WR,,,,,,,,0.0,0.0
-Brenton Strange,TE,,,,,,,10.3,0.0,0.0
 Brett Rypien,QB,,,,,,,,0.0,0.0
 Brevin Jordan,TE,,,,,,,,0.0,0.0
 Brevyn Spann-Ford,TE,,,,,,,,0.0,0.0
+Brian Robinson Jr.,RB,,,0,,,,,0.0,0.0
 British Brooks,RB,,,,,,,,0.0,0.0
 Brock Wright,TE,,,,,,,,0.0,0.0
 Bryce Ford-Wheaton,WR,,,,,,,,0.0,0.0
 Bryce Oliver,WR,,,,,,,,0.0,0.0
 Brycen Tremayne,WR,,,,,,,,0.0,0.0
 Bub Means,WR,,,,,,,,0.0,0.0
-Cade Otton,TE,,,,,,,10.2,0.0,0.0
 Cade Stover,TE,,,,,,,,0.0,0.0
 Calvin Austin III,,,,,,,,15.2,0.0,0.0
 Cam Grandy,TE,,,,,,,,0.0,0.0
@@ -171,19 +220,14 @@ Carlos Washington Jr.,RB,,,,,,,,0.0,0.0
 Carter Bradley,QB,,,,,,,,0.0,0.0
 Case Keenum,QB,,,,,,,,0.0,0.0
 Casey Washington,WR,,,,,,,,0.0,0.0
-Cedric Tillman,WR,,,,,,,11.7,0.0,0.0
 Cedrick Wilson Jr.,WR,,,,,,,,0.0,0.0
 Charlie Jones,WR,,,,,,,,0.0,0.0
 Charlie Woerner,TE,,,,,,,,0.0,0.0
-Chig Okonkwo,TE,,,,,,,9.2,0.0,0.0
 Chris Brooks,RB,,,,,,,,0.0,0.0
 Chris Collier,RB,,,,,,,,0.0,0.0
-Chris Godwin,WR,,,,,,,11.5,0.0,0.0
 Chris Manhertz,TE,,,,,,,,0.0,0.0
 Chris Moore,WR,,,,,,,,0.0,0.0
-Chris Olave,WR,,,,,,,12.5,0.0,0.0
 Chris Rodriguez Jr.,RB,,,,,,,,0.0,0.0
-Christian Kirk,WR,,,,,,,14,0.0,0.0
 Christian Watson,WR,,,,,,,21.4,0.0,0.0
 Clayton Tune,QB,,,,,,,,0.0,0.0
 Clyde Edwards-Helaire,RB,,,,,,,,0.0,0.0
@@ -193,6 +237,7 @@ Colby Parkinson,TE,,,,,,,,0.0,0.0
 Cole Burgess,WR,,,,,,,,0.0,0.0
 Cole Kmet,TE,,,,,,,10.1,0.0,0.0
 Cole Turner,TE,,,,,,,,0.0,0.0
+Coleston Loveland,TE,,,,,,,,0.0,0.0
 Colin Granger,TE,,,,,,,,0.0,0.0
 Colson Yankoff,TE,,,,,,,,0.0,0.0
 Colton Dowell,WR,,,,,,,,0.0,0.0
@@ -204,9 +249,7 @@ Craig Reynolds,RB,,,,,,,,0.0,0.0
 Curtis Samuel,WR,,,,,,,8.2,0.0,0.0
 D.J. Montgomery,WR,,,,,,,,0.0,0.0
 D.J. Williams,RB,,,,,,,,0.0,0.0
-Dallas Goedert,TE,,,,,,,11.8,0.0,0.0
 Dallin Holker,TE,,,,,,,,0.0,0.0
-Dalton Schultz,TE,,,,,,,10,0.0,0.0
 Dameon Pierce,RB,,,,,,,,0.0,0.0
 Dan Chisena,WR,,,,,,,,0.0,0.0
 Daniel Bellinger,TE,,,,,,,,0.0,0.0
@@ -215,14 +258,11 @@ Danny Gray,WR,,,,,,,,0.0,0.0
 Dante Miller,RB,,,,,,,,0.0,0.0
 Dante Pettis,WR,,,,,,,,0.0,0.0
 Dareke Young,WR,,,,,,,,0.0,0.0
-Darius Slayton,WR,,,,,,,14.7,0.0,0.0
-Darnell Mooney,WR,,,,,,,15.5,0.0,0.0
 Darnell Washington,TE,,,,,,,,0.0,0.0
 Darrynton Evans,RB,,,,,,,,0.0,0.0
 David Bell,WR,,,,,,,,0.0,0.0
 David Martin-Robinson,TE,,,,,,,,0.0,0.0
 David Moore,WR,,,,,,,11,0.0,0.0
-David Njoku,TE,,,,,,,7.9,0.0,0.0
 David Sills,WR,,,,,,,,0.0,0.0
 David White Jr.,WR,,,,,,,,0.0,0.0
 Davis Allen,TE,,,,,,,,0.0,0.0
@@ -275,7 +315,6 @@ Emory Jones,QB,,,,,,,,0.0,0.0
 Eric Gray,RB,,,,,,,,0.0,0.0
 Eric Saubert,TE,,,,,,,,0.0,0.0
 Erick All Jr.,TE,,,,,,,7.9,0.0,0.0
-Evan Engram,TE,,,,,,,7.8,0.0,0.0
 Evan Hull,RB,,,,,,,,0.0,0.0
 Feleipe Franks,TE,,,,,,,,0.0,0.0
 Foster Moreau,TE,,,,,,,12.9,0.0,0.0
@@ -292,7 +331,6 @@ Harrison Bryant,TE,,,,,,,,0.0,0.0
 Hassan Haskins,RB,,,,,,,,0.0,0.0
 Hayden Rucci,TE,,,,,,,,0.0,0.0
 Hendon Hooker,QB,,,,,,,,0.0,0.0
-Hollywood Brown,,,,,,,,10.1,0.0,0.0
 Hunter Henry,TE,,,,,,,10.2,0.0,0.0
 Hunter Long,TE,,,,,,,,0.0,0.0
 Hunter Luepke,RB,,,,,,,,0.0,0.0
@@ -305,7 +343,6 @@ Isaiah Hodgins,WR,,,,,,,,0.0,0.0
 Isaiah Likely,TE,,,,,,,11.4,0.0,0.0
 Isaiah Spiller,RB,,,,,,,,0.0,0.0
 Isaiah Williams,WR,,,,,,,,0.0,0.0
-Isiah Pacheco,RB,,,,,,,,0.0,0.0
 Israel Abanikanda,RB,,,,,,,,0.0,0.0
 J.J. Taylor,RB,,,,,,,,0.0,0.0
 J.K. Dobbins,,,,,,,,4.8,0.0,0.0
@@ -348,11 +385,8 @@ Jason Bean,QB,,,,,,,,0.0,0.0
 Jason Brownlee,WR,,,,,,,,0.0,0.0
 Jauan Jennings,WR,,,,,,,12.7,0.0,0.0
 Javon Baker,WR,,,,,,,,0.0,0.0
-Javonte Williams,RB,,,,,,,6.7,0.0,0.0
 Jawhar Jordan,RB,,,,,,,,0.0,0.0
-Jayden Reed,WR,,,,,,,15.6,0.0,0.0
 Jaylen Johnson,WR,,,,,,,,0.0,0.0
-Jaylen Warren,RB,,,,,,,8.2,0.0,0.0
 Jaylen Wright,RB,,,,,,,,0.0,0.0
 Jeff Foreman,WR,,,,,,,,0.0,0.0
 Jelani Woods,TE,,,,,,,,0.0,0.0
@@ -381,17 +415,13 @@ Johnny Wilson,WR,,,,,,,,0.0,0.0
 Jonathan Mingo,WR,,,,,,,,0.0,0.0
 Jonathan Ward,RB,,,,,,,,0.0,0.0
 Jonathon Brooks,RB,,,,,,,,0.0,0.0
-Jonnu Smith,TE,,,,,,,10,0.0,0.0
-Jordan Addison,WR,,,,,,,13.9,0.0,0.0
 Jordan Akins,,,,,,,,9.8,0.0,0.0
-Jordan Mason,RB,,,,,,,,0.0,0.0
 Jordan Matthews,TE,,,,,,,,0.0,0.0
 Jordan Mims,RB,,,,,,,,0.0,0.0
 Jordan Murray,TE,,,,,,,,0.0,0.0
 Jordan Petaia,TE,,,,,,,,0.0,0.0
 Jordan Travis,QB,,,,,,,,0.0,0.0
 Jordan Whittington,WR,,,,,,,,0.0,0.0
-Josh Downs,WR,,,,,,,11.2,0.0,0.0
 Josh Oliver,TE,,,,,,,,0.0,0.0
 Josh Reynolds,WR,,,,,,,,0.0,0.0
 Josh Whyle,TE,,,,,,,,0.0,0.0
@@ -402,7 +432,6 @@ JuJu Smith-Schuster,WR,,,,,,,,0.0,0.0
 Julian Hicks,WR,,,,,,,,0.0,0.0
 Julian Hill,TE,,,,,,,,0.0,0.0
 Justice Hill,RB,,,,,,,9.1,0.0,0.0
-Justin Jefferson,WR,,,,,,,14.9,0.0,0.0
 Justin Shorter,TE,,,,,,,,0.0,0.0
 Justin Watson,WR,,,,,,,,0.0,0.0
 Juwan Johnson,TE,,,,,,,11,0.0,0.0
@@ -429,7 +458,6 @@ Kenneth Gainwell,RB,,,,,,,,0.0,0.0
 Kenny McIntosh,RB,,,,,,,,0.0,0.0
 Kenny Pickett,QB,,,,,,,,0.0,0.0
 Kenny Yeboah,TE,,,,,,,,0.0,0.0
-Keon Coleman,WR,,,,,,,19.2,0.0,0.0
 KhaDarel Hodge,WR,,,,,,,,0.0,0.0
 Khalil Herbert,RB,,,,,,,,0.0,0.0
 Khalil Shakir,WR,,,,,,,10.8,0.0,0.0
@@ -481,12 +509,10 @@ Michael Bandy,WR,,,,,,,,0.0,0.0
 Michael Carter,RB,,,,,,,5.2,0.0,0.0
 Michael Gallup,WR,,,,,,,,0.0,0.0
 Michael Mayer,TE,,,,,,,7.4,0.0,0.0
-Michael Pittman Jr.,WR,,,,,,,11.7,0.0,0.0
 Michael Pratt,QB,,,,,,,,0.0,0.0
 Michael Wiley,RB,,,,,,,,0.0,0.0
 Michael Wilson,WR,,,,,,,11.7,0.0,0.0
 Michael Woods II,WR,,,,,,,,0.0,0.0
-Mike Gesicki,TE,,,,,,,10.2,0.0,0.0
 Mike Strachan,RB,,,,,,,,0.0,0.0
 Mike White,QB,,,,,,,,0.0,0.0
 Mike Williams,WR,,,,,,,,0.0,0.0
@@ -521,18 +547,13 @@ Princeton Fant,TE,,,,,,,,0.0,0.0
 Quentin Johnston,WR,,,,,,,12.9,0.0,0.0
 Quez Watkins,WR,,,,,,,,0.0,0.0
 Quintez Cephus,WR,,,,,,,,0.0,0.0
-Rachaad White,RB,,,,,,,7.7,0.0,0.0
 Raheem Blackshear,RB,,,,,,,,0.0,0.0
 Raheem Mostert,RB,,,,,,,,0.0,0.0
 Rakim Jarrett,WR,,,,,,,,0.0,0.0
 Ramel Keyton,WR,,,,,,,,0.0,0.0
 Rashee Rice,WR,,,,,,,12,0.0,0.0
 Rasheen Ali,RB,,,,,,,,0.0,0.0
-Rashid Shaheed,WR,,,,,,,17.5,0.0,0.0
-Ray Davis,RB,,,,,,,,0.0,0.0
 Ray-Ray McCloud III,WR,,,,,,,11.1,0.0,0.0
-Rhamondre Stevenson,RB,,,,,,,5.1,0.0,0.0
-Ricky Pearsall,WR,,,,,,,12.9,0.0,0.0
 Rico Dowdle,RB,,,,,,,6.4,0.0,0.0
 River Cracraft,WR,,,,,,,,0.0,0.0
 Robert Tonyan,TE,,,,,,,,0.0,0.0
@@ -569,10 +590,8 @@ Stephen Carlson,TE,,,,,,,,0.0,0.0
 Sterling Shepard,WR,,,,,,,10.4,0.0,0.0
 Stetson Bennett,QB,,,,,,,,0.0,0.0
 Steven Sims,WR,,,,,,,,0.0,0.0
-T.J. Hockenson,TE,,,,,,,11.1,0.0,0.0
 T.J. Luther,WR,,,,,,,,0.0,0.0
 Tahj Washington,WR,,,,,,,,0.0,0.0
-Tank Bigsby,RB,,,,,,,,0.0,0.0
 Tank Dell,WR,,,,,,,13.1,0.0,0.0
 Tanner Conner,TE,,,,,,,,0.0,0.0
 Tanner Hudson,TE,,,,,,,,0.0,0.0
@@ -588,7 +607,6 @@ Teagan Quitoriano,TE,,,,,,,,0.0,0.0
 Tejhaun Palmer,WR,,,,,,,,0.0,0.0
 Terique Owens,WR,,,,,,,,0.0,0.0
 Terrell Jennings,RB,,,,,,,,0.0,0.0
-Terry McLaurin,WR,,,,,,,13.4,0.0,0.0
 Thayer Thomas,WR,,,,,,,,0.0,0.0
 Theo Johnson,TE,,,,,,,11.4,0.0,0.0
 Thomas Yassmin,TE,,,,,,,,0.0,0.0
@@ -599,26 +617,22 @@ Tip Reiman,TE,,,,,,,,0.0,0.0
 Tom Kennedy,WR,,,,,,,,0.0,0.0
 Tommy DeVito,QB,,,,,,,,0.0,0.0
 Tommy Tremble,TE,,,,,,,10.2,0.0,0.0
-Travis Etienne Jr.,RB,,,,,,,6.5,0.0,0.0
 Travis Homer,RB,,,,,,,,0.0,0.0
 Travis Vokolek,TE,,,,,,,,0.0,0.0
 Tre Tucker,WR,,,,,,,11.5,0.0,0.0
 Tre' McKitty,TE,,,,,,,,0.0,0.0
 Trent Sherfield Sr.,WR,,,,,,,,0.0,0.0
 Trent Taylor,WR,,,,,,,,0.0,0.0
-Trey Benson,RB,,,,,,,,0.0,0.0
 Trey Lance,QB,,,,,,,,0.0,0.0
 Trey Palmer,WR,,,,,,,,0.0,0.0
 Treylon Burks,WR,,,,,,,,0.0,0.0
 Treyton Welch,TE,,,,,,,,0.0,0.0
 Trishton Jackson,WR,,,,,,,,0.0,0.0
 Troy Franklin,WR,,,,,,,,0.0,0.0
-Tutu Atwell,WR,,,,,,,13.4,0.0,0.0
 Ty Chandler,RB,,,,,,,,0.0,0.0
 Ty Johnson,RB,,,,,,,,0.0,0.0
 Tyjae Spears,RB,,,,,,,7.5,0.0,0.0
 Tylan Wallace,WR,,,,,,,,0.0,0.0
-Tyler Allgeier,RB,,,,,,,,0.0,0.0
 Tyler Boyd,,,,,,,,10,0.0,0.0
 Tyler Conklin,TE,,,,,,,8.8,0.0,0.0
 Tyler Higbee,TE,,,,,,,8.3,0.0,0.0
@@ -642,11 +656,9 @@ Will Shipley,RB,,,,,,,,0.0,0.0
 Xavier Gipson,WR,,,,,,,,0.0,0.0
 Xavier Hutchinson,WR,,,,,,,,0.0,0.0
 Xavier Johnson,WR,,,,,,,,0.0,0.0
-Xavier Legette,WR,,,,,,,10.1,0.0,0.0
 Xavier Smith,WR,,,,,,,,0.0,0.0
 Xavier Weaver,WR,,,,,,,,0.0,0.0
 Xazavian Valladay,RB,,,,,,,,0.0,0.0
-Zach Charbonnet,RB,,,,,,,8.1,0.0,0.0
 Zach Ertz,TE,,,,,,,9.9,0.0,0.0
 Zach Evans,RB,,,,,,,,0.0,0.0
 Zach Pascal,WR,,,,,,,,0.0,0.0

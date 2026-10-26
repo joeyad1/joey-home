@@ -1,0 +1,36 @@
+[
+  {
+    "Milestone": "Sweet Sixteen",
+    "BufferTeamsCount": 2,
+    "BufferTeams": [
+      "Santa Clara 10",
+      "South Florida 11"
+    ]
+  },
+  {
+    "Milestone": "Elite Eight",
+    "BufferTeamsCount": 4,
+    "BufferTeams": [
+      "Purdue 2",
+      "Gonzaga 3",
+      "Connecticut 2",
+      "Virginia 3"
+    ]
+  },
+  {
+    "Milestone": "Final Four",
+    "BufferTeamsCount": 3,
+    "BufferTeams": [
+      "Iowa St. 2",
+      "Illinois 3",
+      "Michigan St. 3"
+    ]
+  },
+  {
+    "Milestone": "National Champion",
+    "BufferTeamsCount": 1,
+    "BufferTeams": [
+      "Houston 2"
+    ]
+  }
+]

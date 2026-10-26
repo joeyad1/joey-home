@@ -1,0 +1,410 @@
+[
+  {
+    "Team": "Michigan",
+    "ChampionWinProbability": 18.386,
+    "PickPercentage": 14.4,
+    "Difference": 3.986
+  },
+  {
+    "Team": "Illinois",
+    "ChampionWinProbability": 4.8175,
+    "PickPercentage": 1.3,
+    "Difference": 3.5175
+  },
+  {
+    "Team": "Iowa St.",
+    "ChampionWinProbability": 5.4043,
+    "PickPercentage": 2.7,
+    "Difference": 2.7043
+  },
+  {
+    "Team": "Purdue",
+    "ChampionWinProbability": 4.2502,
+    "PickPercentage": 3.0,
+    "Difference": 1.2502
+  },
+  {
+    "Team": "Vanderbilt",
+    "ChampionWinProbability": 1.0418,
+    "PickPercentage": 0.4,
+    "Difference": 0.6418
+  },
+  {
+    "Team": "Louisville",
+    "ChampionWinProbability": 0.5465,
+    "PickPercentage": 0.0,
+    "Difference": 0.5465
+  },
+  {
+    "Team": "Texas Tech",
+    "ChampionWinProbability": 0.5067,
+    "PickPercentage": 0.0,
+    "Difference": 0.5067
+  },
+  {
+    "Team": "Houston",
+    "ChampionWinProbability": 6.0993,
+    "PickPercentage": 5.7,
+    "Difference": 0.3993
+  },
+  {
+    "Team": "Nebraska",
+    "ChampionWinProbability": 0.8066,
+    "PickPercentage": 0.5,
+    "Difference": 0.3066
+  },
+  {
+    "Team": "Tennessee",
+    "ChampionWinProbability": 0.6042,
+    "PickPercentage": 0.4,
+    "Difference": 0.2042
+  },
+  {
+    "Team": "Gonzaga",
+    "ChampionWinProbability": 1.6792,
+    "PickPercentage": 1.5,
+    "Difference": 0.1792
+  },
+  {
+    "Team": "Saint Mary's",
+    "ChampionWinProbability": 0.1728,
+    "PickPercentage": 0.0,
+    "Difference": 0.1728
+  },
+  {
+    "Team": "UCLA",
+    "ChampionWinProbability": 0.1681,
+    "PickPercentage": 0.0,
+    "Difference": 0.1681
+  },
+  {
+    "Team": "Michigan St.",
+    "ChampionWinProbability": 1.8516,
+    "PickPercentage": 1.7,
+    "Difference": 0.1516
+  },
+  {
+    "Team": "Ohio St.",
+    "ChampionWinProbability": 0.1393,
+    "PickPercentage": 0.0,
+    "Difference": 0.1393
+  },
+  {
+    "Team": "Iowa",
+    "ChampionWinProbability": 0.1284,
+    "PickPercentage": 0.0,
+    "Difference": 0.1284
+  },
+  {
+    "Team": "Miami FL",
+    "ChampionWinProbability": 0.0803,
+    "PickPercentage": 0.0,
+    "Difference": 0.0803
+  },
+  {
+    "Team": "Utah St.",
+    "ChampionWinProbability": 0.056,
+    "PickPercentage": 0.0,
+    "Difference": 0.056
+  },
+  {
+    "Team": "Villanova",
+    "ChampionWinProbability": 0.0459,
+    "PickPercentage": 0.0,
+    "Difference": 0.0459
+  },
+  {
+    "Team": "Georgia",
+    "ChampionWinProbability": 0.0445,
+    "PickPercentage": 0.0,
+    "Difference": 0.0445
+  },
+  {
+    "Team": "Clemson",
+    "ChampionWinProbability": 0.0336,
+    "PickPercentage": 0.0,
+    "Difference": 0.0336
+  },
+  {
+    "Team": "Santa Clara",
+    "ChampionWinProbability": 0.0287,
+    "PickPercentage": 0.0,
+    "Difference": 0.0287
+  },
+  {
+    "Team": "Texas A&M",
+    "ChampionWinProbability": 0.0216,
+    "PickPercentage": 0.0,
+    "Difference": 0.0216
+  },
+  {
+    "Team": "N.C. State",
+    "ChampionWinProbability": 0.0181,
+    "PickPercentage": 0.0,
+    "Difference": 0.0181
+  },
+  {
+    "Team": "Saint Louis",
+    "ChampionWinProbability": 0.0161,
+    "PickPercentage": 0.0,
+    "Difference": 0.0161
+  },
+  {
+    "Team": "Texas",
+    "ChampionWinProbability": 0.0155,
+    "PickPercentage": 0.0,
+    "Difference": 0.0155
+  },
+  {
+    "Team": "TCU",
+    "ChampionWinProbability": 0.0136,
+    "PickPercentage": 0.0,
+    "Difference": 0.0136
+  },
+  {
+    "Team": "VCU",
+    "ChampionWinProbability": 0.0118,
+    "PickPercentage": 0.0,
+    "Difference": 0.0118
+  },
+  {
+    "Team": "SMU",
+    "ChampionWinProbability": 0.0117,
+    "PickPercentage": 0.0,
+    "Difference": 0.0117
+  },
+  {
+    "Team": "South Florida",
+    "ChampionWinProbability": 0.007,
+    "PickPercentage": 0.0,
+    "Difference": 0.007
+  },
+  {
+    "Team": "Missouri",
+    "ChampionWinProbability": 0.0058,
+    "PickPercentage": 0.0,
+    "Difference": 0.0058
+  },
+  {
+    "Team": "UCF",
+    "ChampionWinProbability": 0.0055,
+    "PickPercentage": 0.0,
+    "Difference": 0.0055
+  },
+  {
+    "Team": "Florida",
+    "ChampionWinProbability": 7.6044,
+    "PickPercentage": 7.6,
+    "Difference": 0.0044
+  },
+  {
+    "Team": "Northern Iowa",
+    "ChampionWinProbability": 0.0016,
+    "PickPercentage": 0.0,
+    "Difference": 0.0016
+  },
+  {
+    "Team": "McNeese",
+    "ChampionWinProbability": 0.0014,
+    "PickPercentage": 0.0,
+    "Difference": 0.0014
+  },
+  {
+    "Team": "Akron",
+    "ChampionWinProbability": 0.0008,
+    "PickPercentage": 0.0,
+    "Difference": 0.0008
+  },
+  {
+    "Team": "Hofstra",
+    "ChampionWinProbability": 0.0004,
+    "PickPercentage": 0.0,
+    "Difference": 0.0004
+  },
+  {
+    "Team": "Cal Baptist",
+    "ChampionWinProbability": 0.0002,
+    "PickPercentage": 0.0,
+    "Difference": 0.0002
+  },
+  {
+    "Team": "Miami OH",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Queens",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Howard",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Penn",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Furman",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Siena",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "UMBC",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Kennesaw St.",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "North Dakota St.",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Hawaii",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Troy",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "High Point",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Wright St.",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Idaho",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Lehigh",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "LIU",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Prairie View A&M",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Tennessee St.",
+    "ChampionWinProbability": 0.0,
+    "PickPercentage": 0.0,
+    "Difference": 0.0
+  },
+  {
+    "Team": "Alabama",
+    "ChampionWinProbability": 0.5901,
+    "PickPercentage": 0.6,
+    "Difference": -0.0099
+  },
+  {
+    "Team": "Virginia",
+    "ChampionWinProbability": 0.9952,
+    "PickPercentage": 1.1,
+    "Difference": -0.1048
+  },
+  {
+    "Team": "Wisconsin",
+    "ChampionWinProbability": 0.2805,
+    "PickPercentage": 0.6,
+    "Difference": -0.3195
+  },
+  {
+    "Team": "St. John's",
+    "ChampionWinProbability": 0.6972,
+    "PickPercentage": 1.1,
+    "Difference": -0.4028
+  },
+  {
+    "Team": "Kentucky",
+    "ChampionWinProbability": 0.0874,
+    "PickPercentage": 0.5,
+    "Difference": -0.4126
+  },
+  {
+    "Team": "BYU",
+    "ChampionWinProbability": 0.186,
+    "PickPercentage": 0.6,
+    "Difference": -0.414
+  },
+  {
+    "Team": "North Carolina",
+    "ChampionWinProbability": 0.0695,
+    "PickPercentage": 0.6,
+    "Difference": -0.5305
+  },
+  {
+    "Team": "Kansas",
+    "ChampionWinProbability": 0.4753,
+    "PickPercentage": 1.1,
+    "Difference": -0.6247
+  },
+  {
+    "Team": "Arkansas",
+    "ChampionWinProbability": 0.7845,
+    "PickPercentage": 2.1,
+    "Difference": -1.3155
+  },
+  {
+    "Team": "Arizona",
+    "ChampionWinProbability": 17.9471,
+    "PickPercentage": 19.4,
+    "Difference": -1.4529
+  },
+  {
+    "Team": "Connecticut",
+    "ChampionWinProbability": 1.9068,
+    "PickPercentage": 3.5,
+    "Difference": -1.5932
+  },
+  {
+    "Team": "Duke",
+    "ChampionWinProbability": 21.3534,
+    "PickPercentage": 25.5,
+    "Difference": -4.1466
+  }
+]
