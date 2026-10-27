@@ -1,0 +1,545 @@
+league_name,team_name,player_name,player_position,status,boone_rank_half,boone_rank_ppr,flex_rank_half,flex_rank_ppr,best_comparable_player,best_comparable_rank,recommendation,note
+Gamers of America,toj0,Harold Fannin,TE,bench,,,,,Brenton Strange,999999,hold,hold
+Gamers of America,toj0,Jaxson Dart,QB,bench,,,,,Joe Burrow,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,toj0,Jacoby Brissett,QB,bench,21,,,,Joe Burrow,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,toj0,Daniel Jones,QB,bench,28,,,,Joe Burrow,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,toj0,Tyler Allgeier,RB,bench,31,28,83,85,Jonathan Taylor,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,toj0,Andrei Iosivas,WR,starter,,,,,Michael Wilson,21,bench_upgrade,starter depth check
+Gamers of America,toj0,Michael Wilson,WR,starter,23,21,49,38,Jordan Addison,48,hold,hold
+Gamers of America,toj0,Saquon Barkley,RB,starter,,,,,Jonathan Taylor,7,bench_upgrade,starter depth check
+Gamers of America,toj0,Joe Burrow,QB,starter,7,,,,Jacoby Brissett,21,hold,hold
+Gamers of America,toj0,Jerry Jeudy,WR,starter,63,63,140,140,Michael Wilson,21,bench_upgrade,starter depth check
+Gamers of America,toj0,Jonathan Taylor,RB,starter,7,7,11,16,Tyler Allgeier,28,hold,hold
+Gamers of America,toj0,Brenton Strange,TE,starter,,,,,Harold Fannin,999999,hold,hold
+Gamers of America,toj0,Jordan Addison,WR,starter,48,48,114,111,Michael Wilson,21,bench_upgrade,starter depth check
+Gamers of America,joeyad,Trey Benson,RB,bench,,,,,Kyren Williams,5,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Keon Coleman,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Pat Bryant,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Luther Burden,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Jacory Croskey-Merritt,RB,bench,,,,,Kyren Williams,5,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Chimere Dike,WR,bench,100,100,200,195,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Rashid Shaheed,WR,bench,53,55,123,123,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+Gamers of America,joeyad,Jayden Higgins,WR,starter,,,,,Ja'Marr Chase,3,bench_upgrade,starter depth check
+Gamers of America,joeyad,Oronde Gadsden,TE,starter,,,,,,,hold,hold
+Gamers of America,joeyad,Dak Prescott,QB,starter,8,,,,,,hold,hold
+Gamers of America,joeyad,Jaylen Waddle,WR,starter,29,28,60,55,Ja'Marr Chase,3,bench_upgrade,starter depth check
+Gamers of America,joeyad,Ja'Marr Chase,WR,starter,3,3,9,5,Christian Watson,6,hold,hold
+Gamers of America,joeyad,Kenneth Gainwell,RB,starter,,,,,Kyren Williams,5,bench_upgrade,starter depth check
+Gamers of America,joeyad,Kyren Williams,RB,starter,5,5,7,9,Trey Benson,999999,hold,hold
+Gamers of America,joeyad,Christian Watson,WR,starter,6,6,14,11,Ja'Marr Chase,3,bench_upgrade,starter depth check
+Gamers of America,GeeMcTee,Tre Tucker,WR,bench,30,29,61,57,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+Gamers of America,GeeMcTee,J.J. McCarthy,QB,bench,30,,,,Bo Nix,17,upgrade_candidate,bench upgrade candidate
+Gamers of America,GeeMcTee,Malik Nabers,WR,bench,9,8,18,14,DeVonta Smith,15,hold,hold
+Gamers of America,GeeMcTee,Ryan Flournoy,WR,bench,43,43,96,88,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+Gamers of America,GeeMcTee,Alvin Kamara,RB,bench,27,26,69,71,Christian McCaffrey,4,upgrade_candidate,bench upgrade candidate
+Gamers of America,GeeMcTee,Khalil Shakir,WR,bench,,,,,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+Gamers of America,GeeMcTee,Bo Nix,QB,starter,17,,,,J.J. McCarthy,30,hold,hold
+Gamers of America,GeeMcTee,Brock Bowers,TE,starter,1,1,24,22,,,hold,hold
+Gamers of America,GeeMcTee,Christian McCaffrey,RB,starter,4,4,6,8,Javonte Williams,8,hold,hold
+Gamers of America,GeeMcTee,Kareem Hunt,RB,starter,,,,,Christian McCaffrey,4,bench_upgrade,starter depth check
+Gamers of America,GeeMcTee,Jakobi Meyers,WR,starter,,,,,Malik Nabers,8,bench_upgrade,starter depth check
+Gamers of America,GeeMcTee,Jauan Jennings,WR,starter,98,98,196,191,Malik Nabers,8,bench_upgrade,starter depth check
+Gamers of America,GeeMcTee,DeVonta Smith,WR,starter,17,15,34,27,Malik Nabers,8,bench_upgrade,starter depth check
+Gamers of America,GeeMcTee,Javonte Williams,RB,starter,8,9,13,20,Christian McCaffrey,4,bench_upgrade,starter depth check
+Gamers of America,egetheoctopus,Jayden Reed,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+Gamers of America,egetheoctopus,Keenan Allen,WR,bench,31,30,62,60,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+Gamers of America,egetheoctopus,Jordan Love,QB,bench,3,,,,Tyler Shough,12,hold,hold
+Gamers of America,egetheoctopus,Parker Washington,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+Gamers of America,egetheoctopus,Tyler Shough,QB,starter,12,,,,Jordan Love,3,bench_upgrade,starter depth check
+Gamers of America,egetheoctopus,Mike Evans,WR,starter,58,59,130,132,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+Gamers of America,egetheoctopus,Stefon Diggs,WR,starter,,,,,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+Gamers of America,egetheoctopus,Taysom Hill,TE,starter,,,,,Juwan Johnson,10,bench_upgrade,starter depth check
+Gamers of America,egetheoctopus,Juwan Johnson,TE,starter,10,10,67,64,Taysom Hill,999999,hold,hold
+Gamers of America,egetheoctopus,Amon-Ra St. Brown,WR,starter,5,5,12,10,Keenan Allen,30,hold,hold
+Gamers of America,egetheoctopus,Kenneth Walker,RB,starter,,,,,Chase Brown,15,bench_upgrade,starter depth check
+Gamers of America,egetheoctopus,Chase Brown,RB,starter,15,15,36,42,Kenneth Walker,999999,hold,hold
+Gamers of America,crestkill,Drake Maye,QB,bench,2,,,,Jared Goff,4,hold,hold
+Gamers of America,crestkill,AJ Barner,TE,bench,21,23,108,105,Dalton Kincaid,999999,hold,hold
+Gamers of America,crestkill,Marvin Harrison,WR,bench,,,,,Justin Jefferson,11,upgrade_candidate,bench upgrade candidate
+Gamers of America,crestkill,Tez Johnson,WR,bench,88,89,179,178,Justin Jefferson,11,upgrade_candidate,bench upgrade candidate
+Gamers of America,crestkill,Austin Ekeler,RB,bench,,,,,Bucky Irving,12,upgrade_candidate,bench upgrade candidate
+Gamers of America,crestkill,Tony Pollard,RB,bench,23,24,52,67,Bucky Irving,12,upgrade_candidate,bench upgrade candidate
+Gamers of America,crestkill,Rachaad White,RB,bench,,,,,Bucky Irving,12,upgrade_candidate,bench upgrade candidate
+Gamers of America,crestkill,Dalton Kincaid,TE,starter,,,,,AJ Barner,21,bench_upgrade,starter depth check
+Gamers of America,crestkill,Bucky Irving,RB,starter,13,12,26,31,RJ Harvey,22,hold,hold
+Gamers of America,crestkill,RJ Harvey,RB,starter,24,22,57,59,Bucky Irving,12,bench_upgrade,starter depth check
+Gamers of America,crestkill,Kyle Monangai,RB,starter,,,,,Bucky Irving,12,bench_upgrade,starter depth check
+Gamers of America,crestkill,Jared Goff,QB,starter,4,,,,Drake Maye,2,bench_upgrade,starter depth check
+Gamers of America,crestkill,Justin Jefferson,WR,starter,12,11,22,18,George Pickens,16,hold,hold
+Gamers of America,crestkill,George Pickens,WR,starter,16,18,33,34,Justin Jefferson,11,bench_upgrade,starter depth check
+Gamers of America,crestkill,Quentin Johnston,WR,starter,,,,,Justin Jefferson,11,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,Travis Kelce,TE,bench,8,8,64,58,Jake Ferguson,24,hold,hold
+Gamers of America,ahaaz36,Davante Adams,WR,bench,,,,,Garrett Wilson,14,upgrade_candidate,bench upgrade candidate
+Gamers of America,ahaaz36,Deebo Samuel,WR,bench,,,,,Garrett Wilson,14,upgrade_candidate,bench upgrade candidate
+Gamers of America,ahaaz36,Garrett Wilson,WR,bench,14,14,29,26,Tee Higgins,19,hold,hold
+Gamers of America,ahaaz36,Brock Purdy,QB,bench,1,,,,Justin Herbert,999999,hold,hold
+Gamers of America,ahaaz36,Brian Thomas,WR,starter,,,,,Garrett Wilson,14,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,Josh Jacobs,RB,starter,18,18,43,50,Travis Etienne,999999,hold,hold
+Gamers of America,ahaaz36,A.J. Brown,WR,starter,22,24,42,45,Garrett Wilson,14,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,Justin Herbert,QB,starter,,,,,Brock Purdy,1,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,Tee Higgins,WR,starter,19,19,37,35,Garrett Wilson,14,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,Travis Etienne,RB,starter,,,,,Josh Jacobs,18,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,Jake Ferguson,TE,starter,24,24,117,106,Travis Kelce,8,bench_upgrade,starter depth check
+Gamers of America,ahaaz36,De'Von Achane,RB,starter,,,,,Josh Jacobs,18,bench_upgrade,starter depth check
+Gamers of America,emerlea,Trevor Etienne,RB,bench,63,63,194,202,Chuba Hubbard,11,upgrade_candidate,bench upgrade candidate
+Gamers of America,emerlea,Cooper Kupp,WR,bench,56,56,127,124,Drake London,8,upgrade_candidate,bench upgrade candidate
+Gamers of America,emerlea,Evan Engram,TE,bench,27,27,129,125,Dallas Goedert,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,emerlea,T.J. Hockenson,TE,bench,16,13,85,75,Dallas Goedert,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,emerlea,Brandon Aiyuk,WR,bench,,,,,Drake London,8,upgrade_candidate,bench upgrade candidate
+Gamers of America,emerlea,Chuba Hubbard,RB,bench,11,11,23,29,Woody Marks,20,hold,hold
+Gamers of America,emerlea,Aaron Rodgers,QB,bench,13,,,,Caleb Williams,6,upgrade_candidate,bench upgrade candidate
+Gamers of America,emerlea,Caleb Williams,QB,starter,6,,,,Aaron Rodgers,13,hold,hold
+Gamers of America,emerlea,Woody Marks,RB,starter,20,21,45,56,Chuba Hubbard,11,bench_upgrade,starter depth check
+Gamers of America,emerlea,Emeka Egbuka,WR,starter,26,27,54,52,Drake London,8,bench_upgrade,starter depth check
+Gamers of America,emerlea,Aaron Jones,RB,starter,,,,,Chuba Hubbard,11,bench_upgrade,starter depth check
+Gamers of America,emerlea,Dallas Goedert,TE,starter,7,7,63,54,T.J. Hockenson,13,hold,hold
+Gamers of America,emerlea,DK Metcalf,WR,starter,20,20,39,37,Drake London,8,bench_upgrade,starter depth check
+Gamers of America,emerlea,Terry McLaurin,WR,starter,,,,,Drake London,8,bench_upgrade,starter depth check
+Gamers of America,emerlea,Drake London,WR,starter,8,9,17,15,DK Metcalf,20,hold,hold
+Gamers of America,JRinPR,Rome Odunze,WR,bench,37,39,82,80,Troy Franklin,74,hold,hold
+Gamers of America,JRinPR,Samaje Perine,RB,bench,45,45,122,131,D'Andre Swift,9,upgrade_candidate,bench upgrade candidate
+Gamers of America,JRinPR,Trevor Lawrence,QB,bench,,,,,Jayden Daniels,999999,hold,hold
+Gamers of America,JRinPR,Kyle Pitts,TE,bench,,,,,Darren Waller,18,upgrade_candidate,bench upgrade candidate
+Gamers of America,JRinPR,Romeo Doubs,WR,bench,,,,,Rome Odunze,37,upgrade_candidate,bench upgrade candidate
+Gamers of America,JRinPR,Jayden Daniels,QB,starter,,,,,Trevor Lawrence,999999,hold,hold
+Gamers of America,JRinPR,Troy Franklin,WR,starter,75,74,160,157,Rome Odunze,37,bench_upgrade,starter depth check
+Gamers of America,JRinPR,Ladd McConkey,WR,starter,,,,,Rome Odunze,37,bench_upgrade,starter depth check
+Gamers of America,JRinPR,Quinshon Judkins,RB,starter,65,65,198,207,D'Andre Swift,9,bench_upgrade,starter depth check
+Gamers of America,JRinPR,Ashton Jeanty,RB,starter,14,14,27,36,D'Andre Swift,9,bench_upgrade,starter depth check
+Gamers of America,JRinPR,Darren Waller,TE,starter,18,19,97,92,Kyle Pitts,999999,hold,hold
+Gamers of America,JRinPR,D'Andre Swift,RB,starter,9,10,15,25,Ashton Jeanty,14,hold,hold
+Gamers of America,JRinPR,Breece Hall,RB,starter,,,,,D'Andre Swift,9,bench_upgrade,starter depth check
+Gamers of America,dkammerer,Ricky Pearsall,WR,bench,,,,,Tetairoa McMillan,15,upgrade_candidate,bench upgrade candidate
+Gamers of America,dkammerer,Kimani Vidal,RB,bench,,,,,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+Gamers of America,dkammerer,Hunter Henry,TE,bench,15,16,81,83,Tyler Warren,28,hold,hold
+Gamers of America,dkammerer,Sam Darnold,QB,bench,22,,,,Jalen Hurts,999999,hold,hold
+Gamers of America,dkammerer,Justice Hill,RB,bench,48,46,135,133,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+Gamers of America,dkammerer,Michael Pittman,WR,bench,,,,,Tetairoa McMillan,15,upgrade_candidate,bench upgrade candidate
+Gamers of America,dkammerer,Xavier Worthy,WR,starter,32,35,65,73,Tetairoa McMillan,15,bench_upgrade,starter depth check
+Gamers of America,dkammerer,Omarion Hampton,RB,starter,,,,,Derrick Henry,6,bench_upgrade,starter depth check
+Gamers of America,dkammerer,Tyler Warren,TE,starter,30,28,143,127,Hunter Henry,15,bench_upgrade,starter depth check
+Gamers of America,dkammerer,Tetairoa McMillan,WR,starter,15,16,30,30,Xavier Worthy,32,hold,hold
+Gamers of America,dkammerer,Derrick Henry,RB,starter,6,6,8,12,Jaylen Warren,8,hold,hold
+Gamers of America,dkammerer,Courtland Sutton,WR,starter,44,44,98,93,Tetairoa McMillan,15,bench_upgrade,starter depth check
+Gamers of America,dkammerer,Jalen Hurts,QB,starter,,,,,Sam Darnold,22,bench_upgrade,starter depth check
+Gamers of America,dkammerer,Jaylen Warren,RB,starter,10,8,19,19,Derrick Henry,6,bench_upgrade,starter depth check
+Gamers of America,mattyresch,Bhayshul Tuten,RB,bench,,,,,TreVeyon Henderson,38,upgrade_candidate,bench upgrade candidate
+Gamers of America,mattyresch,Travis Hunter,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,mattyresch,Lamar Jackson,QB,bench,24,,,,Philip Rivers,999999,hold,hold
+Gamers of America,mattyresch,DJ Moore,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+Gamers of America,mattyresch,Mark Andrews,TE,bench,17,18,94,91,George Kittle,2,upgrade_candidate,bench upgrade candidate
+Gamers of America,mattyresch,Isiah Pacheco,RB,bench,,,,,TreVeyon Henderson,38,upgrade_candidate,bench upgrade candidate
+Gamers of America,mattyresch,Zach Charbonnet,RB,bench,44,43,115,126,TreVeyon Henderson,38,upgrade_candidate,bench upgrade candidate
+Gamers of America,mattyresch,Tyrone Tracy,RB,starter,,,,,TreVeyon Henderson,38,bench_upgrade,starter depth check
+Gamers of America,mattyresch,TreVeyon Henderson,RB,starter,38,39,101,113,Zach Charbonnet,43,hold,hold
+Gamers of America,mattyresch,Philip Rivers,QB,starter,,,,,Lamar Jackson,24,bench_upgrade,starter depth check
+Gamers of America,mattyresch,George Kittle,TE,starter,2,3,31,28,Mark Andrews,17,hold,hold
+Gamers of America,mattyresch,Darius Slayton,WR,starter,,,,,Chris Olave,7,bench_upgrade,starter depth check
+Gamers of America,mattyresch,Nico Collins,WR,starter,11,12,21,21,Chris Olave,7,bench_upgrade,starter depth check
+Gamers of America,mattyresch,Chris Olave,WR,starter,7,7,16,13,Nico Collins,11,hold,hold
+Gamers of America,mattyresch,Jameson Williams,WR,starter,27,31,56,62,Chris Olave,7,bench_upgrade,starter depth check
+Gamers of America,imyerrow,Colston Loveland,TE,bench,9,9,66,63,Trey McBride,2,upgrade_candidate,bench upgrade candidate
+Gamers of America,imyerrow,Kyle Williams,WR,bench,78,78,164,164,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+Gamers of America,imyerrow,Joe Mixon,RB,bench,,,,,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+Gamers of America,imyerrow,Chris Godwin,WR,bench,,,,,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+Gamers of America,imyerrow,Rico Dowdle,RB,bench,30,30,80,89,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+Gamers of America,imyerrow,Josh Allen,QB,starter,,,,,,,hold,hold
+Gamers of America,imyerrow,Michael Carter,RB,starter,93,91,238,236,Jahmyr Gibbs,1,bench_upgrade,starter depth check
+Gamers of America,imyerrow,Rhamondre Stevenson,RB,starter,16,17,38,46,Jahmyr Gibbs,1,bench_upgrade,starter depth check
+Gamers of America,imyerrow,Trey McBride,TE,starter,3,2,32,23,Colston Loveland,9,hold,hold
+Gamers of America,imyerrow,Jahmyr Gibbs,RB,starter,1,1,1,1,Bijan Robinson,2,hold,hold
+Gamers of America,imyerrow,Jaxon Smith-Njigba,WR,starter,2,2,4,3,Puka Nacua,1,bench_upgrade,starter depth check
+Gamers of America,imyerrow,Puka Nacua,WR,starter,1,1,2,2,Jaxon Smith-Njigba,2,hold,hold
+Gamers of America,imyerrow,Bijan Robinson,RB,starter,2,2,3,4,Jahmyr Gibbs,1,bench_upgrade,starter depth check
+Gamers of America,tiffwiss,Emanuel Wilson,RB,bench,28,31,73,96,Blake Corum,22,upgrade_candidate,bench upgrade candidate
+Gamers of America,tiffwiss,Blake Corum,RB,bench,22,23,50,61,Emanuel Wilson,28,hold,hold
+Gamers of America,tiffwiss,Cam Skattebo,RB,bench,34,33,92,99,Blake Corum,22,upgrade_candidate,bench upgrade candidate
+Gamers of America,tiffwiss,Baker Mayfield,QB,bench,31,,,,Matthew Stafford,5,upgrade_candidate,bench upgrade candidate
+Gamers of America,tiffwiss,Jalen Nailor,WR,bench,74,76,158,161,CeeDee Lamb,4,upgrade_candidate,bench upgrade candidate
+Gamers of America,tiffwiss,Kayshon Boutte,WR,bench,60,61,137,138,CeeDee Lamb,4,upgrade_candidate,bench upgrade candidate
+Gamers of America,tiffwiss,Matthew Stafford,QB,starter,5,,,,Baker Mayfield,31,hold,hold
+Gamers of America,tiffwiss,David Montgomery,RB,starter,,,,,Blake Corum,22,bench_upgrade,starter depth check
+Gamers of America,tiffwiss,CeeDee Lamb,WR,starter,4,4,10,6,Zay Flowers,13,hold,hold
+Gamers of America,tiffwiss,Colby Parkinson,TE,starter,19,17,99,90,,,hold,hold
+Gamers of America,tiffwiss,Wan'Dale Robinson,WR,starter,36,34,77,70,CeeDee Lamb,4,bench_upgrade,starter depth check
+Gamers of America,tiffwiss,James Cook,RB,starter,,,,,Blake Corum,22,bench_upgrade,starter depth check
+Gamers of America,tiffwiss,Alec Pierce,WR,starter,,,,,CeeDee Lamb,4,bench_upgrade,starter depth check
+Gamers of America,tiffwiss,Zay Flowers,WR,starter,13,13,28,24,CeeDee Lamb,4,bench_upgrade,starter depth check
+The Slif Bowl,nytakemymoney,Tre Tucker,WR,bench,30,29,61,57,CeeDee Lamb,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,nytakemymoney,Sam LaPorta,TE,bench,6,5,55,41,Mark Andrews,17,hold,hold
+The Slif Bowl,nytakemymoney,Travis Hunter,WR,bench,,,,,CeeDee Lamb,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,nytakemymoney,Joe Mixon,RB,bench,,,,,Josh Jacobs,18,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,nytakemymoney,Kareem Hunt,RB,bench,,,,,Josh Jacobs,18,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,nytakemymoney,Nick Chubb,RB,bench,,,,,Josh Jacobs,18,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,nytakemymoney,Daniel Jones,QB,bench,28,,,,Patrick Mahomes,999999,hold,hold
+The Slif Bowl,nytakemymoney,Jauan Jennings,WR,bench,98,98,196,191,CeeDee Lamb,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,nytakemymoney,Patrick Mahomes,QB,starter,,,,,Daniel Jones,28,bench_upgrade,starter depth check
+The Slif Bowl,nytakemymoney,Aaron Jones,RB,starter,,,,,Josh Jacobs,18,bench_upgrade,starter depth check
+The Slif Bowl,nytakemymoney,Mark Andrews,TE,starter,17,18,94,91,Sam LaPorta,5,bench_upgrade,starter depth check
+The Slif Bowl,nytakemymoney,Courtland Sutton,WR,starter,44,44,98,93,CeeDee Lamb,4,bench_upgrade,starter depth check
+The Slif Bowl,nytakemymoney,Josh Jacobs,RB,starter,18,18,43,50,Joe Mixon,999999,hold,hold
+The Slif Bowl,nytakemymoney,CeeDee Lamb,WR,starter,4,4,10,6,Tre Tucker,29,hold,hold
+The Slif Bowl,nytakemymoney,Kenneth Walker,RB,starter,,,,,Josh Jacobs,18,bench_upgrade,starter depth check
+The Slif Bowl,JordanKingzXx,Jayden Reed,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JordanKingzXx,Troy Franklin,WR,bench,75,74,160,157,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JordanKingzXx,Emeka Egbuka,WR,bench,26,27,54,52,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JordanKingzXx,Jared Goff,QB,bench,4,,,,Joe Burrow,7,hold,hold
+The Slif Bowl,JordanKingzXx,Alvin Kamara,RB,bench,27,26,69,71,Javonte Williams,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JordanKingzXx,Jordan Mason,RB,bench,29,29,76,87,Javonte Williams,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JordanKingzXx,TreVeyon Henderson,RB,starter,38,39,101,113,Javonte Williams,8,bench_upgrade,starter depth check
+The Slif Bowl,JordanKingzXx,Hunter Henry,TE,starter,15,16,81,83,,,hold,hold
+The Slif Bowl,JordanKingzXx,Joe Burrow,QB,starter,7,,,,Jared Goff,4,bench_upgrade,starter depth check
+The Slif Bowl,JordanKingzXx,DeVonta Smith,WR,starter,17,15,34,27,Ja'Marr Chase,3,bench_upgrade,starter depth check
+The Slif Bowl,JordanKingzXx,Ja'Marr Chase,WR,starter,3,3,9,5,DeVonta Smith,15,hold,hold
+The Slif Bowl,JordanKingzXx,Javonte Williams,RB,starter,8,9,13,20,Alvin Kamara,26,hold,hold
+The Slif Bowl,JordanKingzXx,James Cook,RB,starter,,,,,Javonte Williams,8,bench_upgrade,starter depth check
+The Slif Bowl,joeyad,Jayden Higgins,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Bhayshul Tuten,RB,bench,,,,,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Quinshon Judkins,RB,bench,65,65,198,207,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Matthew Stafford,QB,bench,5,,,,Brock Purdy,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Michael Pittman,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Rico Dowdle,RB,bench,30,30,80,89,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Wan'Dale Robinson,WR,bench,36,34,77,70,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,joeyad,Brock Purdy,QB,bench,1,,,,Drake Maye,2,hold,hold
+The Slif Bowl,joeyad,Drake Maye,QB,starter,2,,,,Brock Purdy,1,bench_upgrade,starter depth check
+The Slif Bowl,joeyad,Mike Evans,WR,starter,58,59,130,132,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+The Slif Bowl,joeyad,Derrick Henry,RB,starter,6,6,8,12,Jonathan Taylor,7,hold,hold
+The Slif Bowl,joeyad,George Kittle,TE,starter,2,3,31,28,,,hold,hold
+The Slif Bowl,joeyad,DJ Moore,WR,starter,,,,,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+The Slif Bowl,joeyad,Jonathan Taylor,RB,starter,7,7,11,16,Derrick Henry,6,bench_upgrade,starter depth check
+The Slif Bowl,joeyad,Amon-Ra St. Brown,WR,starter,5,5,12,10,Wan'Dale Robinson,34,hold,hold
+The Slif Bowl,ACHunnidStax,Woody Marks,RB,bench,20,21,45,56,Jaylen Warren,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ACHunnidStax,Tyreek Hill,WR,bench,,,,,Drake London,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ACHunnidStax,James Conner,RB,bench,,,,,Jaylen Warren,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ACHunnidStax,T.J. Hockenson,TE,bench,16,13,85,75,Taysom Hill,999999,hold,hold
+The Slif Bowl,ACHunnidStax,Alec Pierce,WR,bench,,,,,Drake London,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ACHunnidStax,Isiah Pacheco,RB,bench,,,,,Jaylen Warren,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ACHunnidStax,Jaylen Warren,RB,bench,10,8,19,19,Woody Marks,20,hold,hold
+The Slif Bowl,ACHunnidStax,Jordan Addison,WR,bench,48,48,114,111,Drake London,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ACHunnidStax,Tyrone Tracy,RB,starter,,,,,Jaylen Warren,8,bench_upgrade,starter depth check
+The Slif Bowl,ACHunnidStax,Tyler Shough,QB,starter,12,,,,,,hold,hold
+The Slif Bowl,ACHunnidStax,Taysom Hill,TE,starter,,,,,T.J. Hockenson,13,bench_upgrade,starter depth check
+The Slif Bowl,ACHunnidStax,Deebo Samuel,WR,starter,,,,,Drake London,8,bench_upgrade,starter depth check
+The Slif Bowl,ACHunnidStax,Terry McLaurin,WR,starter,,,,,Drake London,8,bench_upgrade,starter depth check
+The Slif Bowl,ACHunnidStax,Kenneth Gainwell,RB,starter,,,,,Jaylen Warren,8,bench_upgrade,starter depth check
+The Slif Bowl,ACHunnidStax,Drake London,WR,starter,8,9,17,15,Jordan Addison,48,hold,hold
+The Slif Bowl,gmirabella,Emari Demercado,RB,bench,,,,,Bucky Irving,12,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Bo Nix,QB,bench,17,,,,Caleb Williams,6,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Rome Odunze,WR,bench,37,39,82,80,Matthew Golden,10,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Mason Taylor,TE,bench,29,30,136,136,Juwan Johnson,10,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Matthew Golden,WR,bench,10,10,20,17,A.J. Brown,22,hold,hold
+The Slif Bowl,gmirabella,Calvin Ridley,WR,bench,83,85,173,174,Matthew Golden,10,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Rhamondre Stevenson,RB,bench,16,17,38,46,Bucky Irving,12,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Rashid Shaheed,WR,bench,53,55,123,123,Matthew Golden,10,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Kendre Miller,RB,bench,26,27,68,84,Bucky Irving,12,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,gmirabella,Caleb Williams,QB,starter,6,,,,Bo Nix,17,hold,hold
+The Slif Bowl,gmirabella,Bucky Irving,RB,starter,13,12,26,31,Rhamondre Stevenson,16,hold,hold
+The Slif Bowl,gmirabella,Harold Fannin,TE,starter,,,,,Juwan Johnson,10,bench_upgrade,starter depth check
+The Slif Bowl,gmirabella,A.J. Brown,WR,starter,22,24,42,45,Matthew Golden,10,bench_upgrade,starter depth check
+The Slif Bowl,gmirabella,Jakobi Meyers,WR,starter,,,,,Matthew Golden,10,bench_upgrade,starter depth check
+The Slif Bowl,gmirabella,Juwan Johnson,TE,starter,10,10,67,64,Mason Taylor,29,hold,hold
+The Slif Bowl,gmirabella,Breece Hall,RB,starter,,,,,Bucky Irving,12,bench_upgrade,starter depth check
+The Slif Bowl,dkammerer,Xavier Worthy,WR,bench,32,35,65,73,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,dkammerer,RJ Harvey,RB,bench,24,22,57,59,Saquon Barkley,999999,hold,hold
+The Slif Bowl,dkammerer,Travis Kelce,TE,bench,8,8,64,58,Kyle Pitts,999999,hold,hold
+The Slif Bowl,dkammerer,Tee Higgins,WR,bench,19,19,37,35,Jameson Williams,27,hold,hold
+The Slif Bowl,dkammerer,Rachaad White,RB,bench,,,,,RJ Harvey,22,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,dkammerer,Ladd McConkey,WR,starter,,,,,Tee Higgins,19,bench_upgrade,starter depth check
+The Slif Bowl,dkammerer,Saquon Barkley,RB,starter,,,,,RJ Harvey,22,bench_upgrade,starter depth check
+The Slif Bowl,dkammerer,Josh Allen,QB,starter,,,,,,,hold,hold
+The Slif Bowl,dkammerer,Travis Etienne,RB,starter,,,,,RJ Harvey,22,bench_upgrade,starter depth check
+The Slif Bowl,dkammerer,Kyle Pitts,TE,starter,,,,,Travis Kelce,8,bench_upgrade,starter depth check
+The Slif Bowl,dkammerer,Khalil Shakir,WR,starter,,,,,Tee Higgins,19,bench_upgrade,starter depth check
+The Slif Bowl,dkammerer,Jameson Williams,WR,starter,27,31,56,62,Tee Higgins,19,bench_upgrade,starter depth check
+The Slif Bowl,ChrisWodeshick,Emanuel Wilson,RB,bench,28,31,73,96,Ashton Jeanty,14,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ChrisWodeshick,Jayden Daniels,QB,bench,,,,,Jaxson Dart,999999,hold,hold
+The Slif Bowl,ChrisWodeshick,Malik Nabers,WR,bench,9,8,18,14,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ChrisWodeshick,Devin Neal,RB,bench,,,,,Ashton Jeanty,14,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ChrisWodeshick,Jaxson Dart,QB,bench,,,,,Jayden Daniels,999999,hold,hold
+The Slif Bowl,ChrisWodeshick,Luther Burden,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ChrisWodeshick,Davante Adams,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ChrisWodeshick,Tucker Kraft,TE,bench,5,6,48,48,Theo Johnson,999999,hold,hold
+The Slif Bowl,ChrisWodeshick,Kayshon Boutte,WR,bench,60,61,137,138,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,ChrisWodeshick,Theo Johnson,TE,starter,,,,,Tucker Kraft,5,bench_upgrade,starter depth check
+The Slif Bowl,ChrisWodeshick,Ashton Jeanty,RB,starter,14,14,27,36,Emanuel Wilson,28,hold,hold
+The Slif Bowl,ChrisWodeshick,David Montgomery,RB,starter,,,,,Ashton Jeanty,14,bench_upgrade,starter depth check
+The Slif Bowl,ChrisWodeshick,Trevor Lawrence,QB,starter,,,,,Jayden Daniels,999999,hold,hold
+The Slif Bowl,ChrisWodeshick,George Pickens,WR,starter,16,18,33,34,Chris Olave,7,bench_upgrade,starter depth check
+The Slif Bowl,ChrisWodeshick,Chris Olave,WR,starter,7,7,16,13,Malik Nabers,8,hold,hold
+The Slif Bowl,ChrisWodeshick,Brenton Strange,TE,starter,,,,,Tucker Kraft,5,bench_upgrade,starter depth check
+The Slif Bowl,jhipko,Brock Bowers,TE,bench,1,1,24,22,Jake Ferguson,24,hold,hold
+The Slif Bowl,jhipko,Marvin Harrison,WR,bench,,,,,Michael Wilson,21,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Cam Skattebo,RB,bench,34,33,92,99,Christian McCaffrey,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Stefon Diggs,WR,bench,,,,,Michael Wilson,21,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,D'Andre Swift,RB,bench,9,10,15,25,Christian McCaffrey,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Justin Herbert,QB,bench,,,,,Baker Mayfield,31,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Tyjae Spears,RB,bench,42,40,109,117,Christian McCaffrey,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Zach Charbonnet,RB,bench,44,43,115,126,Christian McCaffrey,4,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Quentin Johnston,WR,bench,,,,,Michael Wilson,21,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jhipko,Michael Wilson,WR,starter,23,21,49,38,Jaylen Waddle,28,hold,hold
+The Slif Bowl,jhipko,Brian Thomas,WR,starter,,,,,Michael Wilson,21,bench_upgrade,starter depth check
+The Slif Bowl,jhipko,Christian McCaffrey,RB,starter,4,4,6,8,D'Andre Swift,9,hold,hold
+The Slif Bowl,jhipko,Baker Mayfield,QB,starter,31,,,,Justin Herbert,999999,hold,hold
+The Slif Bowl,jhipko,Jaylen Waddle,WR,starter,29,28,60,55,Michael Wilson,21,bench_upgrade,starter depth check
+The Slif Bowl,jhipko,Jake Ferguson,TE,starter,24,24,117,106,Brock Bowers,1,bench_upgrade,starter depth check
+The Slif Bowl,jhipko,Chase Brown,RB,starter,15,15,36,42,Christian McCaffrey,4,bench_upgrade,starter depth check
+The Slif Bowl,jackymezz,Rashee Rice,WR,bench,,,,,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jackymezz,Dylan Sampson,RB,bench,,,,,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jackymezz,Colston Loveland,TE,bench,9,9,66,63,Colby Parkinson,17,hold,hold
+The Slif Bowl,jackymezz,Kyle Williams,WR,bench,78,78,164,164,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jackymezz,Colby Parkinson,TE,bench,19,17,99,90,Colston Loveland,9,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jackymezz,Chuba Hubbard,RB,bench,11,11,23,29,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jackymezz,Tyler Allgeier,RB,bench,31,28,83,85,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,jackymezz,Omarion Hampton,RB,starter,,,,,Bijan Robinson,2,bench_upgrade,starter depth check
+The Slif Bowl,jackymezz,Tyler Warren,TE,starter,30,28,143,127,Colston Loveland,9,bench_upgrade,starter depth check
+The Slif Bowl,jackymezz,Jalen Hurts,QB,starter,,,,,,,hold,hold
+The Slif Bowl,jackymezz,Nico Collins,WR,starter,11,12,21,21,Jaxon Smith-Njigba,2,bench_upgrade,starter depth check
+The Slif Bowl,jackymezz,De'Von Achane,RB,starter,,,,,Bijan Robinson,2,bench_upgrade,starter depth check
+The Slif Bowl,jackymezz,Jaxon Smith-Njigba,WR,starter,2,2,4,3,Nico Collins,11,hold,hold
+The Slif Bowl,jackymezz,Bijan Robinson,RB,starter,2,2,3,4,Chuba Hubbard,11,hold,hold
+The Slif Bowl,JNaps,Blake Corum,RB,bench,22,23,50,61,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Ricky Pearsall,WR,bench,,,,,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Kyle Monangai,RB,bench,,,,,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Lamar Jackson,QB,bench,24,,,,Dak Prescott,8,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Justin Jefferson,WR,bench,12,11,22,18,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Christian Watson,WR,bench,6,6,14,11,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Parker Washington,WR,bench,,,,,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Slif Bowl,JNaps,Tetairoa McMillan,WR,starter,15,16,30,30,Puka Nacua,1,bench_upgrade,starter depth check
+The Slif Bowl,JNaps,Dak Prescott,QB,starter,8,,,,Lamar Jackson,24,hold,hold
+The Slif Bowl,JNaps,Trey McBride,TE,starter,3,2,32,23,,,hold,hold
+The Slif Bowl,JNaps,Kyren Williams,RB,starter,5,5,7,9,Jahmyr Gibbs,1,bench_upgrade,starter depth check
+The Slif Bowl,JNaps,Jahmyr Gibbs,RB,starter,1,1,1,1,Kyren Williams,5,hold,hold
+The Slif Bowl,JNaps,Puka Nacua,WR,starter,1,1,2,2,Christian Watson,6,hold,hold
+The Slif Bowl,JNaps,Zay Flowers,WR,starter,13,13,28,24,Puka Nacua,1,bench_upgrade,starter depth check
+The Lamb,joeyad,Jayden Reed,WR,bench,,,,,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Rashee Rice,WR,bench,,,,,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Brock Bowers,TE,bench,1,1,24,22,,,hold,hold
+The Lamb,joeyad,Ricky Pearsall,WR,bench,,,,,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Jaydon Blue,RB,bench,53,54,161,172,Woody Marks,20,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Jayden Higgins,WR,bench,,,,,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Jaxson Dart,QB,bench,,,,,Jared Goff,4,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Kyle Monangai,RB,bench,,,,,Woody Marks,20,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Jared Goff,QB,bench,4,,,,Dak Prescott,8,hold,hold
+The Lamb,joeyad,David Montgomery,RB,bench,,,,,Woody Marks,20,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Brandon Aiyuk,WR,bench,,,,,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Michael Pittman,WR,bench,,,,,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Wan'Dale Robinson,WR,bench,36,34,77,70,Jaylen Waddle,28,upgrade_candidate,bench upgrade candidate
+The Lamb,joeyad,Woody Marks,RB,starter,20,21,45,56,Rico Dowdle,30,hold,hold
+The Lamb,joeyad,Dak Prescott,QB,starter,8,,,,Jared Goff,4,bench_upgrade,starter depth check
+The Lamb,joeyad,Rico Dowdle,RB,starter,30,30,80,89,Woody Marks,20,bench_upgrade,starter depth check
+The Lamb,joeyad,Jaylen Waddle,WR,starter,29,28,60,55,Wan'Dale Robinson,34,hold,hold
+The Lamb,joeyad,Kenneth Walker,RB,starter,,,,,Woody Marks,20,bench_upgrade,starter depth check
+The Lamb,joeyad,Breece Hall,RB,starter,,,,,Woody Marks,20,bench_upgrade,starter depth check
+The Lamb,jackymezz,Chris Rodriguez,RB,bench,,,,,Javonte Williams,8,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Emanuel Wilson,RB,bench,28,31,73,96,Javonte Williams,8,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Trey Benson,RB,bench,,,,,Javonte Williams,8,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Ryan Flournoy,WR,bench,43,43,96,88,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,DJ Giddens,RB,bench,84,80,229,225,Javonte Williams,8,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Oronde Gadsden,TE,bench,,,,,George Kittle,2,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Elijah Arroyo,TE,bench,,,,,George Kittle,2,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Isaac TeSlaa,WR,bench,92,92,184,183,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Dont'e Thornton,WR,bench,,,,,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Konata Mumpfield,WR,bench,64,62,141,139,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Zach Ertz,TE,bench,,,,,George Kittle,2,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Chris Godwin,WR,bench,,,,,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,George Kittle,TE,bench,2,3,31,28,Oronde Gadsden,999999,hold,hold
+The Lamb,jackymezz,Javonte Williams,RB,bench,8,9,13,20,Emanuel Wilson,28,hold,hold
+The Lamb,jackymezz,Brock Purdy,QB,bench,1,,,,Drake Maye,2,hold,hold
+The Lamb,jackymezz,Rashid Shaheed,WR,bench,53,55,123,123,Puka Nacua,1,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Brenton Strange,TE,bench,,,,,George Kittle,2,upgrade_candidate,bench upgrade candidate
+The Lamb,jackymezz,Drake Maye,QB,starter,2,,,,Brock Purdy,1,bench_upgrade,starter depth check
+The Lamb,jackymezz,Tyrone Tracy,RB,starter,,,,,Javonte Williams,8,bench_upgrade,starter depth check
+The Lamb,jackymezz,Harold Fannin,TE,starter,,,,,George Kittle,2,bench_upgrade,starter depth check
+The Lamb,jackymezz,Omarion Hampton,RB,starter,,,,,Javonte Williams,8,bench_upgrade,starter depth check
+The Lamb,jackymezz,TreVeyon Henderson,RB,starter,38,39,101,113,Javonte Williams,8,bench_upgrade,starter depth check
+The Lamb,jackymezz,George Pickens,WR,starter,16,18,33,34,Puka Nacua,1,bench_upgrade,starter depth check
+The Lamb,jackymezz,De'Von Achane,RB,starter,,,,,Javonte Williams,8,bench_upgrade,starter depth check
+The Lamb,jackymezz,Puka Nacua,WR,starter,1,1,2,2,George Pickens,16,hold,hold
+The Lamb,gmirabella,J.J. McCarthy,QB,bench,30,,,,Matthew Stafford,5,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Tory Horton,WR,bench,,,,,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Jalen Milroe,QB,bench,,,,,Matthew Stafford,5,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Colston Loveland,TE,bench,9,9,66,63,Jake Ferguson,24,hold,hold
+The Lamb,gmirabella,Luther Burden,WR,bench,,,,,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,KeAndre Lambert-Smith,WR,bench,,,,,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Patrick Mahomes,QB,bench,,,,,Matthew Stafford,5,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,James Conner,RB,bench,,,,,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Ty Johnson,RB,bench,,,,,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Chuba Hubbard,RB,bench,11,11,23,29,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Cade Otton,TE,bench,25,25,119,107,Colston Loveland,9,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Tyler Allgeier,RB,bench,31,28,83,85,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Jerome Ford,RB,bench,,,,,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Bryce Young,QB,bench,10,,,,Matthew Stafford,5,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Tank Dell,WR,bench,97,93,195,184,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Kayshon Boutte,WR,bench,60,61,137,138,Jaxon Smith-Njigba,2,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Tyjae Spears,RB,bench,42,40,109,117,Derrick Henry,6,upgrade_candidate,bench upgrade candidate
+The Lamb,gmirabella,Derrick Henry,RB,starter,6,6,8,12,D'Andre Swift,9,hold,hold
+The Lamb,gmirabella,Matthew Stafford,QB,starter,5,,,,Bryce Young,10,hold,hold
+The Lamb,gmirabella,CeeDee Lamb,WR,starter,4,4,10,6,Jaxon Smith-Njigba,2,bench_upgrade,starter depth check
+The Lamb,gmirabella,D'Andre Swift,RB,starter,9,10,15,25,Derrick Henry,6,bench_upgrade,starter depth check
+The Lamb,gmirabella,Darnell Mooney,WR,starter,70,71,152,153,Jaxon Smith-Njigba,2,bench_upgrade,starter depth check
+The Lamb,gmirabella,Nico Collins,WR,starter,11,12,21,21,Jaxon Smith-Njigba,2,bench_upgrade,starter depth check
+The Lamb,gmirabella,Jake Ferguson,TE,starter,24,24,117,106,Colston Loveland,9,bench_upgrade,starter depth check
+The Lamb,gmirabella,Jaxon Smith-Njigba,WR,starter,2,2,4,3,CeeDee Lamb,4,hold,hold
+The Lamb,BillyToast,Jayden Daniels,QB,bench,,,,,Justin Herbert,999999,hold,hold
+The Lamb,BillyToast,Malik Nabers,WR,bench,9,8,18,14,Matthew Golden,10,hold,hold
+The Lamb,BillyToast,Jalen Coker,WR,bench,18,17,35,32,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Devaughn Vele,WR,bench,33,33,70,69,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Ollie Gordon,RB,bench,,,,,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Matthew Golden,WR,bench,10,10,20,17,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Tre' Harris,WR,bench,,,,,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Jimmy Horn,WR,bench,,,,,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Ashton Jeanty,RB,bench,14,14,27,36,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Chimere Dike,WR,bench,100,100,200,195,Malik Nabers,8,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Devin Singletary,RB,bench,54,52,169,158,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,J.K. Dobbins,RB,bench,25,25,58,68,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Trevor Lawrence,QB,bench,,,,,Jayden Daniels,999999,hold,hold
+The Lamb,BillyToast,Kenneth Gainwell,RB,bench,,,,,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Michael Carter,RB,bench,93,91,238,236,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Keaton Mitchell,RB,bench,,,,,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Kendre Miller,RB,bench,26,27,68,84,Jahmyr Gibbs,1,upgrade_candidate,bench upgrade candidate
+The Lamb,BillyToast,Audric Estime,RB,starter,43,42,110,120,Jahmyr Gibbs,1,bench_upgrade,starter depth check
+The Lamb,BillyToast,Ladd McConkey,WR,starter,,,,,Malik Nabers,8,bench_upgrade,starter depth check
+The Lamb,BillyToast,Courtland Sutton,WR,starter,44,44,98,93,Malik Nabers,8,bench_upgrade,starter depth check
+The Lamb,BillyToast,Terry McLaurin,WR,starter,,,,,Malik Nabers,8,bench_upgrade,starter depth check
+The Lamb,BillyToast,Justin Herbert,QB,starter,,,,,Jayden Daniels,999999,hold,hold
+The Lamb,BillyToast,Trey McBride,TE,starter,3,2,32,23,,,hold,hold
+The Lamb,BillyToast,Jameson Williams,WR,starter,27,31,56,62,Malik Nabers,8,bench_upgrade,starter depth check
+The Lamb,BillyToast,Jahmyr Gibbs,RB,starter,1,1,1,1,Ashton Jeanty,14,hold,hold
+The Lamb,tstreets32,Tre Tucker,WR,bench,30,29,61,57,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Sam LaPorta,TE,bench,6,5,55,41,Theo Johnson,999999,hold,hold
+The Lamb,tstreets32,Isaiah Davis,RB,bench,56,55,172,179,Chase Brown,15,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Jalen McMillan,WR,bench,,,,,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Marvin Harrison,WR,bench,,,,,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Brashard Smith,RB,bench,68,70,211,215,Chase Brown,15,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Dylan Sampson,RB,bench,,,,,Chase Brown,15,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Elic Ayomanor,WR,bench,79,79,165,165,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Kaleb Johnson,RB,bench,61,61,191,199,Chase Brown,15,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Jaylin Lane,WR,bench,,,,,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Jacoby Brissett,QB,bench,21,,,,Jordan Love,3,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Joe Mixon,RB,bench,,,,,Chase Brown,15,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Kyler Murray,QB,bench,14,,,,Jordan Love,3,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Jerry Jeudy,WR,bench,63,63,140,140,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Jordan Love,QB,bench,3,,,,Tyler Shough,12,hold,hold
+The Lamb,tstreets32,Romeo Doubs,WR,bench,,,,,Tee Higgins,19,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Rachaad White,RB,bench,,,,,Chase Brown,15,upgrade_candidate,bench upgrade candidate
+The Lamb,tstreets32,Theo Johnson,TE,starter,,,,,Sam LaPorta,5,bench_upgrade,starter depth check
+The Lamb,tstreets32,Tyler Shough,QB,starter,12,,,,Jordan Love,3,bench_upgrade,starter depth check
+The Lamb,tstreets32,Saquon Barkley,RB,starter,,,,,Chase Brown,15,bench_upgrade,starter depth check
+The Lamb,tstreets32,Tee Higgins,WR,starter,19,19,37,35,Tre Tucker,29,hold,hold
+The Lamb,tstreets32,Chase Brown,RB,starter,15,15,36,42,Zach Charbonnet,43,hold,hold
+The Lamb,tstreets32,Zach Charbonnet,RB,starter,44,43,115,126,Chase Brown,15,bench_upgrade,starter depth check
+The Lamb,tstreets32,Quentin Johnston,WR,starter,,,,,Tee Higgins,19,bench_upgrade,starter depth check
+The Lamb,tstreets32,Jordan Addison,WR,starter,48,48,114,111,Tee Higgins,19,bench_upgrade,starter depth check
+The Lamb,ChrisWodeshick,Jarquez Hunter,RB,bench,,,,,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Xavier Legette,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Devin Neal,RB,bench,,,,,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Cam Skattebo,RB,bench,34,33,92,99,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Isaiah Bond,WR,bench,86,87,177,176,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Jacory Croskey-Merritt,RB,bench,,,,,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Kyle Williams,WR,bench,78,78,164,164,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Darren Waller,TE,bench,18,19,97,92,T.J. Hockenson,13,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Alvin Kamara,RB,bench,27,26,69,71,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,T.J. Hockenson,TE,bench,16,13,85,75,Darren Waller,18,hold,hold
+The Lamb,ChrisWodeshick,Daniel Jones,QB,bench,28,,,,Caleb Williams,6,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Deebo Samuel,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Calvin Austin,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Garrett Wilson,WR,bench,14,14,29,26,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Parker Washington,WR,bench,,,,,Chris Olave,7,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Sean Tucker,RB,bench,,,,,Bijan Robinson,2,upgrade_candidate,bench upgrade candidate
+The Lamb,ChrisWodeshick,Caleb Williams,QB,starter,6,,,,Daniel Jones,28,hold,hold
+The Lamb,ChrisWodeshick,Mike Evans,WR,starter,58,59,130,132,Chris Olave,7,bench_upgrade,starter depth check
+The Lamb,ChrisWodeshick,Kyle Pitts,TE,starter,,,,,T.J. Hockenson,13,bench_upgrade,starter depth check
+The Lamb,ChrisWodeshick,Rhamondre Stevenson,RB,starter,16,17,38,46,Bijan Robinson,2,bench_upgrade,starter depth check
+The Lamb,ChrisWodeshick,Khalil Shakir,WR,starter,,,,,Chris Olave,7,bench_upgrade,starter depth check
+The Lamb,ChrisWodeshick,Chris Olave,WR,starter,7,7,16,13,Garrett Wilson,14,hold,hold
+The Lamb,ChrisWodeshick,Kyren Williams,RB,starter,5,5,7,9,Bijan Robinson,2,bench_upgrade,starter depth check
+The Lamb,ChrisWodeshick,Bijan Robinson,RB,starter,2,2,3,4,Kyren Williams,5,hold,hold
+The Lamb,JordanKingzXx,Braelon Allen,RB,bench,12,13,25,33,RJ Harvey,22,hold,hold
+The Lamb,JordanKingzXx,Brian Thomas,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Keon Coleman,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Jaylen Wright,RB,bench,72,69,217,214,Braelon Allen,12,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Kimani Vidal,RB,bench,,,,,Braelon Allen,12,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Terrance Ferguson,TE,bench,,,,,Tucker Kraft,5,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Bhayshul Tuten,RB,bench,,,,,Braelon Allen,12,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Tahj Brooks,RB,bench,,,,,Braelon Allen,12,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Baker Mayfield,QB,bench,31,,,,Josh Allen,999999,hold,hold
+The Lamb,JordanKingzXx,Calvin Ridley,WR,bench,83,85,173,174,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,DJ Moore,WR,bench,,,,,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Tank Bigsby,RB,bench,,,,,Braelon Allen,12,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Tucker Kraft,TE,bench,5,6,48,48,Hunter Henry,15,hold,hold
+The Lamb,JordanKingzXx,Josh Downs,WR,bench,35,36,74,74,Ja'Marr Chase,3,upgrade_candidate,bench upgrade candidate
+The Lamb,JordanKingzXx,Michael Wilson,WR,starter,23,21,49,38,Ja'Marr Chase,3,bench_upgrade,starter depth check
+The Lamb,JordanKingzXx,RJ Harvey,RB,starter,24,22,57,59,Braelon Allen,12,bench_upgrade,starter depth check
+The Lamb,JordanKingzXx,Hunter Henry,TE,starter,15,16,81,83,Tucker Kraft,5,bench_upgrade,starter depth check
+The Lamb,JordanKingzXx,Josh Allen,QB,starter,,,,,Baker Mayfield,31,bench_upgrade,starter depth check
+The Lamb,JordanKingzXx,Tony Pollard,RB,starter,23,24,52,67,Braelon Allen,12,bench_upgrade,starter depth check
+The Lamb,JordanKingzXx,Ja'Marr Chase,WR,starter,3,3,9,5,Drake London,8,hold,hold
+The Lamb,JordanKingzXx,Drake London,WR,starter,8,9,17,15,Ja'Marr Chase,3,bench_upgrade,starter depth check
+The Lamb,JordanKingzXx,James Cook,RB,starter,,,,,Braelon Allen,12,bench_upgrade,starter depth check
+The Lamb,billywej18,Rome Odunze,WR,bench,37,39,82,80,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Jermaine Burton,WR,bench,,,,,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Mason Taylor,TE,bench,29,30,136,136,Travis Kelce,8,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Emeka Egbuka,WR,bench,26,27,54,52,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Shedeur Sanders,QB,bench,32,,,,Joe Burrow,7,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Jaylin Noel,WR,bench,39,37,87,78,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Tyreek Hill,WR,bench,,,,,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,David Njoku,TE,bench,,,,,Travis Kelce,8,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Christian McCaffrey,RB,bench,4,4,6,8,Bucky Irving,12,hold,hold
+The Lamb,billywej18,Kendrick Bourne,WR,bench,46,46,106,98,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Sam Darnold,QB,bench,22,,,,Joe Burrow,7,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Dalton Schultz,TE,bench,20,20,102,94,Travis Kelce,8,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Justice Hill,RB,bench,48,46,135,133,Christian McCaffrey,4,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Tua Tagovailoa,QB,bench,,,,,Joe Burrow,7,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Joe Burrow,QB,bench,7,,,,Bo Nix,17,hold,hold
+The Lamb,billywej18,Jauan Jennings,WR,bench,98,98,196,191,Zay Flowers,13,upgrade_candidate,bench upgrade candidate
+The Lamb,billywej18,Bo Nix,QB,starter,17,,,,Joe Burrow,7,bench_upgrade,starter depth check
+The Lamb,billywej18,Bucky Irving,RB,starter,13,12,26,31,Christian McCaffrey,4,bench_upgrade,starter depth check
+The Lamb,billywej18,Blake Corum,RB,starter,22,23,50,61,Christian McCaffrey,4,bench_upgrade,starter depth check
+The Lamb,billywej18,Adonai Mitchell,WR,starter,,,,,Zay Flowers,13,bench_upgrade,starter depth check
+The Lamb,billywej18,Travis Kelce,TE,starter,8,8,64,58,Dalton Schultz,20,hold,hold
+The Lamb,billywej18,Cooper Kupp,WR,starter,56,56,127,124,Zay Flowers,13,bench_upgrade,starter depth check
+The Lamb,billywej18,Josh Jacobs,RB,starter,18,18,43,50,Christian McCaffrey,4,bench_upgrade,starter depth check
+The Lamb,billywej18,Zay Flowers,WR,starter,13,13,28,24,Emeka Egbuka,26,hold,hold
+The Lamb,dkammerer,Dalton Kincaid,TE,bench,,,,,Isaiah Likely,4,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Will Shipley,RB,bench,,,,,Trevor Etienne,63,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Jack Bech,WR,bench,,,,,Christian Watson,6,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Quinshon Judkins,RB,bench,65,65,198,207,Trevor Etienne,63,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Travis Hunter,WR,bench,,,,,Christian Watson,6,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Trevor Etienne,RB,bench,63,63,194,202,Quinshon Judkins,65,hold,hold
+The Lamb,dkammerer,Rashod Bateman,WR,bench,57,58,128,130,Christian Watson,6,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Joshua Palmer,WR,bench,,,,,Christian Watson,6,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Isaiah Likely,TE,bench,4,4,47,40,Dallas Goedert,7,hold,hold
+The Lamb,dkammerer,Alec Pierce,WR,bench,,,,,Christian Watson,6,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Brian Robinson,RB,bench,,,,,Trevor Etienne,63,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Christian Watson,WR,bench,6,6,14,11,Justin Jefferson,11,hold,hold
+The Lamb,dkammerer,Isiah Pacheco,RB,bench,,,,,Trevor Etienne,63,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,Marvin Mims,WR,bench,,,,,Christian Watson,6,upgrade_candidate,bench upgrade candidate
+The Lamb,dkammerer,C.J. Stroud,QB,bench,9,,,,Jalen Hurts,999999,hold,hold
+The Lamb,dkammerer,Stefon Diggs,WR,starter,,,,,Christian Watson,6,bench_upgrade,starter depth check
+The Lamb,dkammerer,Dallas Goedert,TE,starter,7,7,63,54,Isaiah Likely,4,bench_upgrade,starter depth check
+The Lamb,dkammerer,A.J. Brown,WR,starter,22,24,42,45,Christian Watson,6,bench_upgrade,starter depth check
+The Lamb,dkammerer,Justin Jefferson,WR,starter,12,11,22,18,Christian Watson,6,bench_upgrade,starter depth check
+The Lamb,dkammerer,Jalen Hurts,QB,starter,,,,,C.J. Stroud,9,bench_upgrade,starter depth check
+The Lamb,dkammerer,DeVonta Smith,WR,starter,17,15,34,27,Christian Watson,6,bench_upgrade,starter depth check
+The Lamb,dkammerer,Travis Etienne,RB,starter,,,,,Trevor Etienne,63,bench_upgrade,starter depth check
+The Lamb,Stroppy23,Michael Penix,QB,bench,,,,,Lamar Jackson,24,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Xavier Worthy,WR,bench,32,35,65,73,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Troy Franklin,WR,bench,75,74,160,157,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Tez Johnson,WR,bench,88,89,179,178,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Pat Bryant,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Tyler Warren,TE,bench,30,28,143,127,Mark Andrews,17,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Cameron Ward,QB,bench,,,,,Lamar Jackson,24,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Keenan Allen,WR,bench,31,30,62,60,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Aaron Jones,RB,bench,,,,,Jonathan Taylor,7,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Nick Chubb,RB,bench,,,,,Jonathan Taylor,7,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Jakobi Meyers,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,John Metchie,WR,bench,,,,,Amon-Ra St. Brown,5,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Jordan Mason,RB,bench,29,29,76,87,Jonathan Taylor,7,upgrade_candidate,bench upgrade candidate
+The Lamb,Stroppy23,Tetairoa McMillan,WR,starter,15,16,30,30,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+The Lamb,Stroppy23,Davante Adams,WR,starter,,,,,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+The Lamb,Stroppy23,Lamar Jackson,QB,starter,24,,,,Michael Penix,999999,hold,hold
+The Lamb,Stroppy23,Mark Andrews,TE,starter,17,18,94,91,Tyler Warren,28,hold,hold
+The Lamb,Stroppy23,DK Metcalf,WR,starter,20,20,39,37,Amon-Ra St. Brown,5,bench_upgrade,starter depth check
+The Lamb,Stroppy23,Jonathan Taylor,RB,starter,7,7,11,16,Jaylen Warren,8,hold,hold
+The Lamb,Stroppy23,Amon-Ra St. Brown,WR,starter,5,5,12,10,Tetairoa McMillan,15,hold,hold
+The Lamb,Stroppy23,Jaylen Warren,RB,starter,10,8,19,19,Jonathan Taylor,7,bench_upgrade,starter depth check
