@@ -131,12 +131,23 @@ def write_csv(rows: List[Dict[str, str]], path: Path) -> None:
         writer.writerows(rows)
 
 
+def get_my_user_id() -> str:
+    user_file = REPO_ROOT / "APIcalls" / "sleeperDicts" / "joeyad" / "userInfo.json"
+    if user_file.exists():
+        with user_file.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+            if data.get("user_id"):
+                return str(data["user_id"])
+    return "439870479407247360"
+
+
 def build_team_rows() -> List[Dict[str, str]]:
     username = "joeyad"
     season = get_current_season()
     players_by_id = load_player_map()
     boone_lookup = load_boone_rankings()
     trade_lookup = load_trade_value_map()
+    my_user_id = get_my_user_id()
 
     rows: List[Dict[str, str]] = []
     league_rows = []
@@ -150,6 +161,8 @@ def build_team_rows() -> List[Dict[str, str]]:
         rosters = fetch_json(f"https://api.sleeper.app/v1/league/{league_id}/rosters")
 
         for roster in rosters:
+            if str(roster.get("owner_id") or "") != my_user_id:
+                continue
             owner_id = str(roster.get("owner_id") or "")
             team_name = get_user_display_name(owner_id, users)
             roster_id = str(roster.get("roster_id") or "")
